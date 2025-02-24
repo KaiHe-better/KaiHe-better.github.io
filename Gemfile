@@ -23,5 +23,11 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
+  gem 'thor'
+  gem 'csv'
+  gem 'logger'
+  gem 'base64'
+  gem 'bigdecimal'
+  gem 'liquid', '~> 4.0.4'
+  gem 'jekyll-livereload'
 end
