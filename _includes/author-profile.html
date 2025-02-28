@@ -13,12 +13,24 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+
+
+  
+
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
+      
+
+      <br>
+      <img src="https://www.nus.edu.sg/images/default-source/base/logo.png" style="height: 35px; width: auto; margin-top:5px; margin-bottom:5px;"><br>
+      <img src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" style="height: 35px; width: auto; margin-top:5px; margin-bottom:5px;"><br>
+      <img src="images/xjtu.png" style="height: 40px; width: auto; margin-top:5px; margin-bottom:5px;"><br>
+
+      <br>
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
