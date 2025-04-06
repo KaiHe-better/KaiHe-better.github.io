@@ -22,7 +22,7 @@ redirect_from:
 His research interests NLP, particularly Large Language Models, Information Extraction, Sentiment Analysis, and Mental Health, as well as data mining in the medical field. 
 I currently work as a Research Fellow in NUS. For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=4nWk-HYAAAAJ'><img src="https://img.shields.io/badge/citations-1000-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat" alt="Citations Badge"></a> 
                    
-<!-- <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> -->
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"> 
 
 <span class='anchor' id='news'></span>
 
