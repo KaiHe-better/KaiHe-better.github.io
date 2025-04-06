@@ -4,6 +4,7 @@ on:
   page_build:
   schedule:
     - cron: '0 0 * * *'  # 每天新加坡时间早上 8 点运行
+  workflow_dispatch:
 
 jobs:
   build:
