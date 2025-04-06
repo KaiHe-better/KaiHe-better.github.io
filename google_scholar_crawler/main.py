@@ -10,7 +10,7 @@ os.environ['GOOGLE_SCHOLAR_ID'] = '4nWk-HYAAAAJ'
 
 
 
-author: dict = scholarly.search_author_id(os.environ['4nWk-HYAAAAJ'])
+author: dict = scholarly.search_author_id('4nWk-HYAAAAJ')
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())
