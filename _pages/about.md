@@ -27,6 +27,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our paper of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.
 - *2025.02*: &nbsp;🎉🎉 Our survey paper on Multiple Instance Learning in computational pathology is accepted by Information Fusion (IF 14.8).
 - *2024.12*: &nbsp;🎉🎉 Our paper reveives ****Best Paper Award****, IEEE Transactions on Affective Computing, titled "The Biases of Pre-Trained Language Models: An Empirical Study on PromptBased Sentiment Analysis and Emotion Detection" 
 
@@ -58,6 +59,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 
 ## 2025
+- Qika Lin, **Kai He**, Yifan Zhu, et al. Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA. IEEE TIP 
 - Zhang Y, Gao Z, **He K**, et al. From patches to WSIs: A systematic REVIEW of deep Multiple Instance Learning in computational pathology[J]. Information Fusion, 2025: 103027. (IF:14.8) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253525001009) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:jZcQZ5FGETMJ:scholar.google.com/&output=citation&scisdr=ClE57f0-ENP9_HdIyzw:AFWwaeYAAAAAZ8FO0zxubexUYkxgz1JTbU8Karo&scisig=AFWwaeYAAAAAZ8FO08QuNeDh8DYUWBeIR6qDT9c&scisf=4&ct=citation&cd=0&hl=zh-CN)
 - Mao R, Ge M, Han S, et al. A survey on pragmatic processing techniques[J]. Information Fusion, 2025, 114: 102712. [[Paper]]( https://www.sciencedirect.com/science/article/pii/S1566253524004901 ) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:_A8pNfW9MiQJ:scholar.google.com/&output=citation&scisdr=ClE57f0-ENP9_HdX2ZQ:AFWwaeYAAAAAZ8FRwZS_hyr5pEhyeHMVbnnsuCE&scisig=AFWwaeYAAAAAZ8FRwRFGAzbwzqd4wiuyRRU8p8o&scisf=4&ct=citation&cd=0&hl=zh-CN&scfhb=1 )
 - **He K**, Mao R, Lin Q, et al. A survey of large language models for healthcare: from data, technology, and applications to accountability and ethics[J]. Information Fusion, 2025: 102963.  [[Paper]]( https://www.sciencedirect.com/science/article/pii/S1566253525000363 ) [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:owPuk9dwWcoJ:scholar.google.com/&output=citation&scisdr=ClE57f0-ENP9_HdX7LY:AFWwaeYAAAAAZ8FR9LZiqCEwS4NXlXtAtwEr550&scisig=AFWwaeYAAAAAZ8FR9M78DaD3Ft0M0_C4xL7jTiw&scisf=4&ct=citation&cd=0&hl=zh-CN )
