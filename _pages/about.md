@@ -27,7 +27,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Our paper of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.
+- *2025.04*: &nbsp;🎉🎉 Our paper of diffusion-based difference-aware medical VQA is accepted by IEEE TIP.
 - *2025.02*: &nbsp;🎉🎉 Our survey paper on Multiple Instance Learning in computational pathology is accepted by Information Fusion (IF 14.8).
 - *2024.12*: &nbsp;🎉🎉 Our paper reveives ****Best Paper Award****, IEEE Transactions on Affective Computing, titled "The Biases of Pre-Trained Language Models: An Empirical Study on PromptBased Sentiment Analysis and Emotion Detection" 
 
