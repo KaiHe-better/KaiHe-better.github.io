@@ -20,7 +20,7 @@ redirect_from:
 **He K**ai, Ph.D., earned his doctorate from the School of Computer Science and Technology at Xi'an Jiaotong University under the supervision of Professor Li Chen (recipient of the Young Thousand Talents Plan in China). He also completed an academic visit at the School of Computer Science and Engineering, Nanyang Technological University, under the guidance of Professor Erik Cambria (IEEE Fellow), with whom he maintains an active academic collaboration. Currently, he is a postdoctoral researcher at the School of Public Health, National University of Singapore, focusing on research in medical artificial intelligence.
 
 His research interests NLP, particularly Large Language Models, Information Extraction, Sentiment Analysis, and Mental Health, as well as data mining in the medical field. 
-I currently work as a Research Fellow in NUS. For my full (and timely) publication list, please refer to my Google scholar<a href='https://scholar.google.com/citations?user=4nWk-HYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+I currently work as a Research Fellow in NUS. For my full (and timely) publication list, please refer to my Google scholar <a href='https://scholar.google.com/citations?user=4nWk-HYAAAAJ'> <span class='show_paper_citations' data='4nWk-HYAAAAJ'></span>
 </a> 
 
 
