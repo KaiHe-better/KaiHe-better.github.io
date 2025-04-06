@@ -1,31 +1,30 @@
 name: Get Citation Data
 
 on: 
-  page_build:
+  page_build: 
   schedule:
-    - cron: '0 0 * * *'  # 每天新加坡时间早上 8 点运行
+    - cron:  '0 8 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Install Reqs
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-setuptools python3-pip
-      - name: Run
-        env: 
-          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-        run: |
-          cd ./google_scholar_crawler
-          pip3 install -r requirements.txt
-          python3 main.py
-          cd ./results
-          git init
-          git config --local user.name "${GITHUB_ACTOR}"
-          export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-          git add *.json
-          git commit -m "Updated Citation Data"
-          git push "${remote_repo}" HEAD:google-scholar-stats --force
+    - uses: actions/checkout@v2
+    - name: Install Reqs
+      run: |
+        sudo apt-get install python3-setuptools
+    - name: Run
+      run: |
+        cd ./google_scholar_crawler
+        pip3 install -r requirements.txt
+        python3 main.py
+        cd ./results
+        git init
+        git config --local user.name "${GITHUB_ACTOR}"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git add *.json
+        git commit -m "Updated Citation Data"
+        git push "${remote_repo}" HEAD:google-scholar-stats --force
+      env: 
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
