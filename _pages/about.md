@@ -175,7 +175,10 @@ WANG XB, GE M, HE K, ET. AL. IEEE TRANSACTIONS ON AFFECTIVE COMPUTiNG, UNDER REV
 
 # 💻 Services
 - Journal 
-
+   - Associate Editor :
+     
+       IEEE Transactions on Affective Computing （IF:9.6）
+     
    - Reviewer (Selected): 
 
        IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Affective Computing, Information Fusion, Expert System with Applicatiopn, Neurocomputing, Bioinformastics, Information Processing and Management, Knowledge-Based Systems, Cognitive Computation.
