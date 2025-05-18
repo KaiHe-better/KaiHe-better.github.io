@@ -111,7 +111,9 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Under REVIEW
 
-
+- DivScore: Zero-shot Detection of LLM-Generated Text
+in Specialized Domains
+Chen Zhihui, He K，  ET. AL. EMNLP, UNDER REVIEW.
 - Accurate spatial quantification in computational pathology with multiple instance learning
 GAO ZY, MAO AY, HE K, ET. AL. NATURE CANCER, UNDER REVIEW.
 -  InTriage: Intelligent Telephone Triage in Pre‑Hospital Emergency Care
