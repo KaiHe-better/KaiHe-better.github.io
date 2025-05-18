@@ -111,14 +111,11 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## Under REVIEW
 
-- ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide‑level question answering
-GAO ZY, HE K, SU WH,ET. AL. NATURE COMMUNICATION, UNDER REVIEW.
+
 - Accurate spatial quantification in computational pathology with multiple instance learning
 GAO ZY, MAO AY, HE K, ET. AL. NATURE CANCER, UNDER REVIEW.
 -  InTriage: Intelligent Telephone Triage in Pre‑Hospital Emergency Care
 HE K, LIN QK, FEi H, ET.AL. ACL 2025, UNDER REVIEW.
-- Crab: A Novel Configurable Role‑Playing LLM with Assessing Benchmark
-HE K, HUANG YC, WANG WQ, ET.AL. ACL 2025, UNDER REVIEW.
 - External Retrievals or Internal Priors? From RAG to Epitome‑Augmented Generation
 HE K, XU JX, LiN QK, ET.AL. ACL 2025, UNDER REVIEW.
 - Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi‑Source Domain Knowledge in EHRs
@@ -126,14 +123,8 @@ WU JL, MEI X, HE K, ET. AL. JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, UNDER 
 - AKECare: A Temporal‑Hierarchical Framework with Knowledge Fusion for Personalized Clinical Predictive
 Modeling
 WU JL, MEi X, HE K, ET. AL. JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, UNDER REVIEW.
-- Harnessing the Potential of Multimodal EHR Data: A Comprehensive Survey of Clinical Predictive Modeling for
-Intelligent Healthcare
-WU JL, HE K, RUi MAO, ET. AL. INFORMATION FUSION, UNDER REVIEW.
 - Robust Multimodal Sentiment Analysis via Double Information Bottleneck
 HUANG, HT, GONG TLHE K, ET.AL. INFORMATION FUSION, UNDER REVIEW.
-- Self‑supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language
-Modelsn
-LIN QK, ZHAO TZ, HE K, ET.AL. ACL 2025, UNDER REVIEW.
 - A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models
 LIN QK, PENG X, HE K, ET. AL. IJCAI, UNDER REVIEW.
 - Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution
