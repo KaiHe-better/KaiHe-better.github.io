@@ -27,7 +27,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 # 🔥 News
 
-- *2025.07*: &nbsp;🎉🎉 Our paper on Chinese Medical Entity Normalization is accepted by ESWA (IF 7.5). Congrats to [Dr. Hou]( )
+- *2025.07*: &nbsp;🎉🎉 Our paper on Chinese Medical Entity Normalization is accepted by ESWA (IF 7.5). Congrats to [Dr. Hou]( ).
 - *2025.06*: &nbsp;🎉🎉 Our paper on Fuzzy RAG is accepted by IEEE Transactions on Fuzzy Systems (IF 11.9).
 - *2025.05*: &nbsp;🎉🎉 Our paper of Multimodal EHR Survey are accepted Information Fusion (IF 14.8). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
 - *2025.05*: &nbsp;🎉🎉 Our two paper are accepted by ACL 2025. Congrats to [Dr. Lin](https://scholar.google.com.hk/citations?user=k8BKz0MAAAAJ&h).
