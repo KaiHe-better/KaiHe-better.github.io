@@ -27,8 +27,8 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 # 🔥 News
 
-
-
+- *2025.07*: &nbsp;🎉🎉 Our paper on Chinese Medical Entity Normalization is accepted by ESWA (IF 7.5). Congrats to [Dr. Hou]( )
+- *2025.06*: &nbsp;🎉🎉 Our paper on Fuzzy RAG is accepted by IEEE Transactions on Fuzzy Systems (IF 11.9).
 - *2025.05*: &nbsp;🎉🎉 Our paper of Multimodal EHR Survey are accepted Information Fusion (IF 14.8). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
 - *2025.05*: &nbsp;🎉🎉 Our two paper are accepted by ACL 2025. Congrats to [Dr. Lin](https://scholar.google.com.hk/citations?user=k8BKz0MAAAAJ&h).
 - *2025.05*: &nbsp;🎉🎉 Our paper of neurological condition identification are accepted by MICCAI 2025. Congrats to [Dr. Xu](https://scholar.google.com.hk/citations?user=HzVhJf0AAAAJ&hl).
@@ -66,6 +66,8 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 
 ## 2025
+- ``ESWA`` ***Multi-granularity Semantic Extraction and Multi-task Fusion for Chinese Medical Entity Normalization Expert Systems With Applications*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
+- ``IEEE Transactions on Fuzzy Systems`` ***External Retrievals or Internal Priors? From RAG to Epitome-Augmented Generation by Fuzzy Selection*** <br>  **Kai He**, Jiaxing Xu, Qiq Lin, et al.  [[Paper]]()
 - ``Information Fusion`` ***Harnessing the Potential of Multimodal EHR data: A Comprehensive Survey of Clinical Predictive Modeling for Intelligent Healthcare*** <br> Wu Jialun, **Kai He**, Rui Mao, et al.  [[Paper]]() 
 - ``ACL 2025`` ***Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark***. <br> **Kai He**, Yucheng Huang, Wenqing Wang, Delong Ran, Dongming Sheng, Junxuan Huang, ***Qika Lin***, Jiaxing Xu, et al.  [[Paper]]() 
 - ``ACL 2025`` ***Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with LLMs***. ***Qika Lin***, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng.  [[Paper]](https://arxiv.org/pdf/2501.18119) 
