@@ -118,9 +118,7 @@ Chen Zhihui, He K，  ET. AL. EMNLP, UNDER REVIEW.
 - Accurate spatial quantification in computational pathology with multiple instance learning
 GAO ZY, MAO AY, HE K, ET. AL. NATURE CANCER, UNDER REVIEW.
 -  InTriage: Intelligent Telephone Triage in Pre‑Hospital Emergency Care
-HE K, LIN QK, FEi H, ET.AL. ACL 2025, UNDER REVIEW.
-- External Retrievals or Internal Priors? From RAG to Epitome‑Augmented Generation
-HE K, XU JX, LiN QK, ET.AL. ACL 2025, UNDER REVIEW.
+HE K, LIN QK, FEi H, ET.AL. EMNLP 2025, UNDER REVIEW.
 - Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi‑Source Domain Knowledge in EHRs
 WU JL, MEI X, HE K, ET. AL. JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, UNDER REVIEW.
 - AKECare: A Temporal‑Hierarchical Framework with Knowledge Fusion for Personalized Clinical Predictive
@@ -139,8 +137,6 @@ MAO R, TAN Y, HE K, ET. AL. IJCAI 2025, UNDER REVIEW.
 XU JX, LAN MC, HE K, ET. AL. TMI, UNDER REVIEW.
 - Towards Unified Neurosymbolic Reasoning on Knowledge Graphs
 LIN QK, XU FZ, HE K, ET. AL. AI, UNDER REVIEW.
-- Multi‑granularity Semantic Extraction and Multi‑task Fusion for Chinese Medical Entity Normalization
-HOU WH, HE K, MAO R, ET. AL. INFORMAITON FUSION, UNDER REVIEW.
 - Global Entity Relationship Enhancement Network for Multimodal Sarcasm Detection
 WANG XB, GE M, HE K, ET. AL. IEEE TRANSACTIONS ON AFFECTIVE COMPUTiNG, UNDER REVIEW
 
