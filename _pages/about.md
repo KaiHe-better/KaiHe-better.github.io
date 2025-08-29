@@ -19,7 +19,10 @@ redirect_from:
 
 **He K**ai, Ph.D., earned his doctorate from the School of Computer Science and Technology at Xi'an Jiaotong University under the supervision of Professor Li Chen (recipient of the Young Thousand Talents Plan in China). He also completed an academic visit at the School of Computer Science and Engineering, Nanyang Technological University, under the guidance of Professor Erik Cambria (IEEE Fellow), with whom he maintains an active academic collaboration. Currently, he is a postdoctoral researcher at the School of Public Health, National University of Singapore, focusing on research in Large Language Model, AI for Healthcare, Affective Computing, Information Extraction.
 
-I currently work as a Research Fellow in NUS. For my full (and timely) publication list, please refer to my Google scholar<a href='https://scholar.google.com/citations?user=4nWk-HYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+He is currently an Associate Editor of the leading journal IEEE Transactions on Affective Computing (TAC), a top-ranked outlet in affective computing under the Chinese Academy of Sciences (CAS) Category I, and received the TAC Best Paper Award in 2023.
+At present, he leads the project “Intelligent Telephone Triage in Pre-Hospital Emergency Care” at NUS, which collaborates closely with the Singapore government. For the outstanding contributions, he has been received by the Vice President and the Minister of Health of Singapore at different occasions.
+
+For my full (and timely) publication list, please refer to my Google scholar<a href='https://scholar.google.com/citations?user=4nWk-HYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
                    
 
 
@@ -28,7 +31,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 # 🔥 News
 
 
-- *2025.08*: &nbsp;🎉🎉 Our paper on Slide-level Question Answering is accepted by Nature Cancer. Congrats to [Dr. Gao](https://scholar.google.com.hk/citations?user=CeP6dkcAAAAJ&hl).
+- *2025.08*: &nbsp;🎉🎉 Our paper on Slide-level Question Answering is accepted by :red_circle: Nature Cancer. Congrats to [Dr. Gao](https://scholar.google.com.hk/citations?user=CeP6dkcAAAAJ&hl).
 - *2025.07*: &nbsp;🎉🎉 Our paper on LLM-Generated Text Detection is accepted by EMNLP.
 - *2025.07*: &nbsp;🎉🎉 Our paper on Personalized Clinical Prediction is accepted Information Fusion (IF 14.8). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
 - *2025.07*: &nbsp;🎉🎉 Our paper on Multi-center Anatomical Detection is accepted Information Fusion (IF 14.8). Congrats to [Dr. Gao].
@@ -78,7 +81,7 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 
 ## 2025
 
-- ``Nature Cancer`` ***ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering*** <br> Zeyu Gao, **Kai He**, Weiheng Su, et al.  [[Paper]]()
+- :red_circle: ``Nature Cancer`` ***ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering*** <br> Zeyu Gao, **Kai He**, Weiheng Su, et al.  [[Paper]]()
 - ``Information Fusion`` ***Domain-continual learning for multi-center anatomical detection via prompt-enhanced and densely-fused MedSAM*** <br> Zhan Gao, Ling Huang, ..., **Kai He** et al.  [[Paper]]()
 - ``EMNLP`` ***DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
 - ``Information Fusion`` ***TAKECare: A temporal-hierarchical framework with knowledge fusion for personalized clinical predictive modeling*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
