@@ -26,9 +26,15 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+
+
+- *2025.08*: &nbsp;🎉🎉 Our paper on Slide-level Question Answering is accepted by Nature Cancer. Congrats to [Dr. Gao](https://scholar.google.com.hk/citations?user=CeP6dkcAAAAJ&hl).
+- *2025.07*: &nbsp;🎉🎉 Our paper on LLM-Generated Text Detection is accepted by EMNLP.
+- *2025.07*: &nbsp;🎉🎉 Our paper on Personalized Clinical Prediction is accepted Information Fusion (IF 14.8). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
+- *2025.07*: &nbsp;🎉🎉 Our paper on Multi-center Anatomical Detection is accepted Information Fusion (IF 14.8). Congrats to [Dr. Gao].
 - *2025.07*: &nbsp;🎉🎉 Our paper on Chinese Medical Entity Normalization is accepted by ESWA (IF 7.5). Congrats to [Dr. Hou]( ).
 - *2025.06*: &nbsp;🎉🎉 Our paper on Fuzzy RAG is accepted by IEEE Transactions on Fuzzy Systems (IF 11.9).
-- *2025.05*: &nbsp;🎉🎉 Our paper of Multimodal EHR Survey are accepted Information Fusion (IF 14.8). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
+- *2025.05*: &nbsp;🎉🎉 Our paper of Multimodal EHR Survey is accepted Information Fusion (IF 14.8). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
 - *2025.05*: &nbsp;🎉🎉 Our two paper are accepted by ACL 2025. Congrats to [Dr. Lin](https://scholar.google.com.hk/citations?user=k8BKz0MAAAAJ&h).
 - *2025.05*: &nbsp;🎉🎉 Our paper of neurological condition identification are accepted by MICCAI 2025. Congrats to [Dr. Xu](https://scholar.google.com.hk/citations?user=HzVhJf0AAAAJ&hl).
 - *2025.05*: &nbsp;🎉🎉 Our paper of exploring cognitive difference via LLM is accepted by Cognitive Computation. Congrats to [Dr. Bao]( )
@@ -64,14 +70,25 @@ I currently work as a Research Fellow in NUS. For my full (and timely) publicati
 <!-- *: corresponding author,&nbsp;&nbsp;‡: co-first author -->
 
 
+
+
+
+
+
+
 ## 2025
+
+- ``Nature Cancer`` ***ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering*** <br> Zeyu Gao, **Kai He**, Weiheng Su, et al.  [[Paper]]()
+- ``Information Fusion`` ***Domain-continual learning for multi-center anatomical detection via prompt-enhanced and densely-fused MedSAM*** <br> Zhan Gao, Ling Huang, ..., **Kai He** et al.  [[Paper]]()
+- ``EMNLP`` ***DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
+- ``Information Fusion`` ***TAKECare: A temporal-hierarchical framework with knowledge fusion for personalized clinical predictive modeling*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
 - ``ESWA`` ***Multi-granularity Semantic Extraction and Multi-task Fusion for Chinese Medical Entity Normalization Expert Systems With Applications*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
 - ``IEEE Transactions on Fuzzy Systems`` ***External Retrievals or Internal Priors? From RAG to Epitome-Augmented Generation by Fuzzy Selection*** <br>  **Kai He**, Jiaxing Xu, Qiq Lin, et al.  [[Paper]]()
 - ``Information Fusion`` ***Harnessing the Potential of Multimodal EHR data: A Comprehensive Survey of Clinical Predictive Modeling for Intelligent Healthcare*** <br> Wu Jialun, **Kai He**, Rui Mao, et al.  [[Paper]]() 
-- ``ACL 2025`` ***Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark***. <br> **Kai He**, Yucheng Huang, Wenqing Wang, Delong Ran, Dongming Sheng, Junxuan Huang, ***Qika Lin***, Jiaxing Xu, et al.  [[Paper]]() 
-- ``ACL 2025`` ***Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with LLMs***. ***Qika Lin***, Tianzhe Zhao, Kai He, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng.  [[Paper]](https://arxiv.org/pdf/2501.18119) 
+- ``ACL 2025`` ***Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark***. <br> **Kai He**, Yucheng Huang, Wenqing Wang, et al.  [[Paper]]() 
+- ``ACL 2025`` ***Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with LLMs***. Qika Lin, Tianzhe Zhao, ***Kai He***, et al.  [[Paper]](https://arxiv.org/pdf/2501.18119) 
 - ``MICCAI 2025`` ***BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification***. <br> Xu Jiaxing, **He K**, Tang Y, et. al. [[Paper]]()
-- ``Cognitive Computation`` ***Exploring Cognitive Difference in Poetry! Collection via: A Case Study of the Book of Songs***. <br> Bao H, **He K**, Wang YG, Gao ZY, et. al., [[Paper]]()
+- ``Cognitive Computation`` ***Exploring Cognitive Difference in Poetry! Collection via: A Case Study of the Book of Songs***. <br> Bao H, **He K**, Wang YG, et. al., [[Paper]]()
 - ``Cancer Research`` ***Bridging whole slide images and large language model for slide-level question answering***. <br> Gao Z, **He K**, Su W, et al.   [[Paper]](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/2438/757197)
 - ``IEEE TIP`` ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. <br> Qika Lin, **Kai He**, Yifan Zhu, et al.  . [[Paper]](https://ieeexplore.ieee.org/document/10964089)
 - ``Information Fusion`` ***From patches to WSIs: A systematic REVIEW of deep Multiple Instance Learning in computational pathology***. <br> Zhang Y, Gao Z, **He K**, et al. . (IF:14.8) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253525001009) 
