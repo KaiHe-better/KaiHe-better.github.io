@@ -31,7 +31,7 @@ For my full (and timely) publication list, please refer to my Google scholar<a h
 # 🔥 News
 
 
-- *2025.08*: &nbsp;🎉🎉 Our paper on Slide-level Question Answering is accepted by :red_circle: Nature Cancer. Congrats to [Dr. Gao](https://scholar.google.com.hk/citations?user=CeP6dkcAAAAJ&hl).
+- *2025.08*: &nbsp;🎉🎉 Our paper on Slide-level Question Answering is accepted by Nature Cancer. Congrats to [Dr. Gao](https://scholar.google.com.hk/citations?user=CeP6dkcAAAAJ&hl).
 - *2025.07*: &nbsp;🎉🎉 Our paper on LLM-Generated Text Detection is accepted by EMNLP.
 - *2025.07*: &nbsp;🎉🎉 Our paper on Personalized Clinical Prediction is accepted Information Fusion (IF 14.8). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
 - *2025.07*: &nbsp;🎉🎉 Our paper on Multi-center Anatomical Detection is accepted Information Fusion (IF 14.8). Congrats to [Dr. Gao].
@@ -81,7 +81,7 @@ For my full (and timely) publication list, please refer to my Google scholar<a h
 
 ## 2025
 
-- :red_circle: ``Nature Cancer`` ***ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering*** <br> Zeyu Gao, **Kai He**, Weiheng Su, et al.  [[Paper]]()
+- ``Nature Cancer`` ***ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering*** <br> Zeyu Gao, **Kai He**, Weiheng Su, et al.  [[Paper]]()
 - ``Information Fusion`` ***Domain-continual learning for multi-center anatomical detection via prompt-enhanced and densely-fused MedSAM*** <br> Zhan Gao, Ling Huang, ..., **Kai He** et al.  [[Paper]]()
 - ``EMNLP`` ***DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
 - ``Information Fusion`` ***TAKECare: A temporal-hierarchical framework with knowledge fusion for personalized clinical predictive modeling*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
@@ -141,9 +141,6 @@ GAO ZY, MAO AY, HE K, ET. AL. NATURE CANCER, UNDER REVIEW.
 HE K, LIN QK, FEi H, ET.AL. EMNLP 2025, UNDER REVIEW.
 - Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi‑Source Domain Knowledge in EHRs
 WU JL, MEI X, HE K, ET. AL. JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, UNDER REVIEW.
-- AKECare: A Temporal‑Hierarchical Framework with Knowledge Fusion for Personalized Clinical Predictive
-Modeling
-WU JL, MEi X, HE K, ET. AL. JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, UNDER REVIEW.
 - Robust Multimodal Sentiment Analysis via Double Information Bottleneck
 HUANG, HT, GONG TLHE K, ET.AL. INFORMATION FUSION, UNDER REVIEW.
 - A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models
