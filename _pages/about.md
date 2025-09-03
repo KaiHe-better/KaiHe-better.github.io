@@ -202,8 +202,8 @@ WANG XB, GE M, HE K, ET. AL. IEEE TRANSACTIONS ON AFFECTIVE COMPUTiNG, UNDER REV
        IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Affective Computing, Information Fusion, Expert System with Applicatiopn, Neurocomputing, Bioinformastics, Information Processing and Management, Knowledge-Based Systems, Cognitive Computation.
 
 - Conference  
+   - Co‑chair of The 7th International Workshop on Artificial Intelligence for Precision Medicine, 2025 (https://ai-precmed.github.io). 
    - Co‑chair of NLP‑SIG workshop, 2023‑now
-
    - Program Committee Member: 
 
         ACL’23-25, EMNLP’22-23, COLING’22-23, SIGIR’23, CIKM’24, IJCAI’23-24, IJCNN'25 etc.
