@@ -132,31 +132,33 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 
 ## Under REVIEW
-
-- DivScore: Zero-shot Detection of LLM-Generated Text
-in Specialized Domains
-Chen Zhihui, He K，  ET. AL. EMNLP, UNDER REVIEW.
-- Accurate spatial quantification in computational pathology with multiple instance learning
-GAO ZY, MAO AY, HE K, ET. AL. NATURE CANCER, UNDER REVIEW.
+- GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images
+Xiang Lan, Feng Wu, Kai He, Qinghao Zhao, Shenda Hong, Mengling Feng
+- Mind the Gap: A Gap-Aware Corpus Augmentation Framework for Topic-Level Imbalance in Mental Health Retrieval
+Amanda Chan, James Jiayu Liu, Kai He, Onno P. Kampman
+- BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification
+Jiaxing Xu, Kai He, Yue Tang
+- A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning
+Qika Lin, Yifan Zhu, ... , Kai He
 -  InTriage: Intelligent Telephone Triage in Pre‑Hospital Emergency Care
-HE K, LIN QK, FEi H, ET.AL. EMNLP 2025, UNDER REVIEW.
+HE K, LIN QK, FEi H, ET.AL.
 - Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi‑Source Domain Knowledge in EHRs
-WU JL, MEI X, HE K, ET. AL. JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, UNDER REVIEW.
+WU JL, MEI X, HE K, ET. AL.
 - Robust Multimodal Sentiment Analysis via Double Information Bottleneck
-HUANG, HT, GONG TLHE K, ET.AL. INFORMATION FUSION, UNDER REVIEW.
+HUANG, HT, GONG TLHE K, ET.AL.
 - A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models
-LIN QK, PENG X, HE K, ET. AL. IJCAI, UNDER REVIEW.
+LIN QK, PENG X, HE K, ET. AL.
 - Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution
-RUAN,YC, LAN X, HE K, ET. AL. ARTIFICIAL INTELLIGENCE REVIEW, UNDER REVIEW.
+RUAN,YC, LAN X, HE K, ET. AL.
 - Unraveling the Evolution of Public Cognition of COVID‑19: A Concept Mapping Analysis through Metaphors in US
 Tweets
-MAO R, TAN Y, HE K, ET. AL. IJCAI 2025, UNDER REVIEW.
+MAO R, TAN Y, HE K, ET. AL.
 - Multi‑Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion
-XU JX, LAN MC, HE K, ET. AL. TMI, UNDER REVIEW.
+XU JX, LAN MC, HE K, ET. AL.
 - Towards Unified Neurosymbolic Reasoning on Knowledge Graphs
-LIN QK, XU FZ, HE K, ET. AL. AI, UNDER REVIEW.
+LIN QK, XU FZ, HE K, ET. AL.
 - Global Entity Relationship Enhancement Network for Multimodal Sarcasm Detection
-WANG XB, GE M, HE K, ET. AL. IEEE TRANSACTIONS ON AFFECTIVE COMPUTiNG, UNDER REVIEW
+WANG XB, GE M, HE K, ET. AL. 
 
  
 <span class='anchor' id='-Honors-and-Awards'></span>
