@@ -132,6 +132,8 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 
 ## Under REVIEW
+- Fundamental Algorithms for Retrieval Augmented Generation: A Survey
+Zihao Huang, Rui Mao, Xiaobao Wu, Kai He et. al.
 - GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images
 Xiang Lan, Feng Wu, Kai He, Qinghao Zhao, Shenda Hong, Mengling Feng
 - Mind the Gap: A Gap-Aware Corpus Augmentation Framework for Topic-Level Imbalance in Mental Health Retrieval
