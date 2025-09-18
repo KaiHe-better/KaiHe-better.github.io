@@ -210,7 +210,8 @@ WANG XB, GE M, HE K, ET. AL.
 
        IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Affective Computing, Information Fusion, Expert System with Applicatiopn, Neurocomputing, Bioinformastics, Information Processing and Management, Knowledge-Based Systems, Cognitive Computation.
 
-- Conference  
+- Conference
+   - Are-Chair of LREC 2026 (Psycholinguistics, Cognitive Linguistics and Linguistic Theories)
    - Co‑chair of The 7th International Workshop on Artificial Intelligence for Precision Medicine, 2025 (https://ai-precmed.github.io). 
    - Co‑chair of NLP‑SIG workshop, 2023‑now
    - Program Committee Member: 
