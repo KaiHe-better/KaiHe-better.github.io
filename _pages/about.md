@@ -90,7 +90,7 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 - ``Nature Cancer`` ***ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering*** <br> Zeyu Gao, **Kai He**, Weiheng Su, et al.  [[Paper]]()
 - ``Information Fusion`` ***Domain-continual learning for multi-center anatomical detection via prompt-enhanced and densely-fused MedSAM*** <br> Zhan Gao, Ling Huang, ..., **Kai He** et al.  [[Paper]]()
 - ``EMNLP`` ***DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
-- ``Information Fusion`` ***TAKECare: A temporal-hierarchical framework with knowledge fusion for personalized clinical predictive modeling*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
+- ``Information Fusion`` ***TAKECare: A temporal-hierarchical framework with knowledge fusion for personalized clinical predictive modeling*** <br> Jialun Wu, Xin Mei, Rui Mao, **Kai He**e, et al.  [[Paper]]()
 - ``ESWA`` ***Multi-granularity Semantic Extraction and Multi-task Fusion for Chinese Medical Entity Normalization Expert Systems With Applications*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
 - ``IEEE Transactions on Fuzzy Systems`` ***External Retrievals or Internal Priors? From RAG to Epitome-Augmented Generation by Fuzzy Selection*** <br>  **Kai He**, Jiaxing Xu, Qiq Lin, et al.  [[Paper]]()
 - ``Information Fusion`` ***Harnessing the Potential of Multimodal EHR data: A Comprehensive Survey of Clinical Predictive Modeling for Intelligent Healthcare*** <br> Wu Jialun, **Kai He**, Rui Mao, et al.  [[Paper]]() 
