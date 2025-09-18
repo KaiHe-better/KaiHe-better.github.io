@@ -19,9 +19,9 @@ redirect_from:
 
 Dr. He Kai earned his Ph.D. from the School of Computer Science and Technology, Xi’an Jiaotong University, under the supervision of Prof. Li Chen (recipient of China’s Young Thousand Talents Award), and completed a research visit at Nanyang Technological University with Prof. Erik Cambria (IEEE Fellow). He is currently a postdoctoral researcher at the National University of Singapore, School of Public Health, specializing in medical artificial intelligence and natural language processing (NLP).
 
-Dr. He has established himself as an independent researcher with a strong foundation in NLP and large language models, complemented by impactful applications in healthcare. He has published over 45 peer-reviewed papers, including articles in top-tier venues such as Nature Cancer, IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Affective Computing, and Information Fusion. His work includes two ESI Highly Cited Papers, a Best Paper Award in IEEE Transactions on Affective Computing. His leading projects, notably the Intelligent Telephone Triage in Pre-Hospital Emergency Care with the Singapore Civil Defence Force, have translated cutting-edge AI into practice, reducing triage error rates. The project received the Provost’s Innovation Chair Professor Award, was commended by Singapore’s Health Minister, showcased at national healthcare innovation events, and he will be received by Deputy Prime Minister Mr. Gan Kim Yong as the project representative.
+Dr. He has established himself as an independent researcher with a strong foundation in NLP and large language models, complemented by impactful applications in healthcare. He has published over 45 peer-reviewed papers, including articles in top-tier venues such as Nature Cancer, IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Affective Computing, and Information Fusion. His work includes two ESI Highly Cited Papers, a Best Paper Award in IEEE Transactions on Affective Computing. His leading projects, notably the Intelligent Telephone Triage in Pre-Hospital Emergency Care with the Singapore Civil Defence Force, have translated cutting-edge AI into practice, reducing triage error rates. The project received the Provost’s Innovation Chair Professor Award, was commended by Singapore’s Health Minister, showcased at national healthcare innovation events, and he was received by Deputy Prime Minister Mr. Gan Kim Yong as the project representative.
 
-Beyond publications, Dr. He demonstrates leadership in both research and service. He serves as an Associate Editor for IEEE Transactions on Affective Computing, co-chairs the NLP-SIG workshop and Precision Medicine workshop of BIBM, and reviews for leading journals such as Information Fusion, TNNLS, and TAC. He also contributes to program committees of ACL, EMNLP, IJCAI, SIGIR, and WWW. As a mentor, he has supervised PhD students to co-author multiple publications.
+Beyond publications, Dr. He demonstrates leadership in both research and service. He serves as an Associate Editor for IEEE Transactions on Affective Computing, co-chairs the NLP-SIG workshop and Precision Medicine workshop of BIBM, Are-Chair of LREC 2026, and reviews for leading journals such as Information Fusion, TNNLS, and TAC. He also contributes to program committees of ACL, EMNLP, IJCAI, SIGIR, and WWW. As a mentor, he has supervised PhD students to co-author multiple publications.
 
 For his full (and timely) publication list, please refer to my Google scholar<a href='https://scholar.google.com/citations?user=4nWk-HYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
                    
@@ -137,6 +137,8 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 
 ## Under REVIEW
+- Beyond Prediction: Reinforcement Learning as the Defining Leap in Healthcare AI
+D Perera, G Habib, Q Xu, DJ Tan, K He, E Cambria, M Feng
 - Fundamental Algorithms for Retrieval Augmented Generation: A Survey
 Zihao Huang, Rui Mao, Xiaobao Wu, Kai He et. al.
 - GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images
@@ -147,8 +149,6 @@ Amanda Chan, James Jiayu Liu, Kai He, Onno P. Kampman
 Jiaxing Xu, Kai He, Yue Tang
 - A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning
 Qika Lin, Yifan Zhu, ... , Kai He
--  InTriage: Intelligent Telephone Triage in Pre‑Hospital Emergency Care
-HE K, LIN QK, FEi H, ET.AL.
 - Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi‑Source Domain Knowledge in EHRs
 WU JL, MEI X, HE K, ET. AL.
 - Robust Multimodal Sentiment Analysis via Double Information Bottleneck
@@ -187,6 +187,8 @@ WANG XB, GE M, HE K, ET. AL.
 <span class='anchor' id='-Academic-Projects'></span>
 
 # 💬 Academic Projects
+
+-   Project of Future-Ready Interventions for Survival After Cardiac Arrest (FRISCA), Grant A-8001902-00-00.
 -   Project of Intelligent Telephone Triage in Pre-Hospital Emergency Care. AISG,  Grant AISG2-TC-2022-004.
 -   Project of National Natural Science Foundation of China, research on the construction of metabolic pathway model based on semantic analysis of biological text, project number 61772409.
 -   National Key RD Project, Research on Effective Mining and Key Information Technology of Big Data of Precision Medicine, Project No. 2018YFC0910404HZ.
@@ -203,11 +205,10 @@ WANG XB, GE M, HE K, ET. AL.
 # 💻 Services
 - Journal 
    - Associate Editor :
-     
        IEEE Transactions on Affective Computing （IF:9.6）
-     
+   - Guest Leading Editor:
+       Special Issue on Can AI Care? Affective LLMs for the Future of Mental Health of TAC journal.
    - Reviewer (Selected): 
-
        IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Affective Computing, Information Fusion, Expert System with Applicatiopn, Neurocomputing, Bioinformastics, Information Processing and Management, Knowledge-Based Systems, Cognitive Computation.
 
 - Conference
