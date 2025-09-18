@@ -31,7 +31,9 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 # 🔥 News
 
-
+- *2025.09*: &nbsp;🎉🎉 Our paper on Multi-atlas Brain Network Detection is accepted by Journal of Biomedical and Health Informatics (JBHI). Congrats to [Dr. Xu](https://scholar.google.com.hk/citations?user=HzVhJf0AAAAJ&hl=zh-CN).
+- *2025.09*: &nbsp;🎉🎉 Our paper on Foundation Model for EHR is accepted by Journal of Biomedical and Health Informatics (JBHI). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
+- *2025.09*: &nbsp;🎉🎉 Our paper on Intelligent Telephone Triage is accepted by EMNLP 2025. 
 - *2025.08*: &nbsp;🎉🎉 Our paper on Slide-level Question Answering is accepted by Nature Cancer. Congrats to [Dr. Gao](https://scholar.google.com.hk/citations?user=CeP6dkcAAAAJ&hl).
 - *2025.07*: &nbsp;🎉🎉 Our paper on LLM-Generated Text Detection is accepted by EMNLP.
 - *2025.07*: &nbsp;🎉🎉 Our paper on Personalized Clinical Prediction is accepted Information Fusion (IF 14.8). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
@@ -82,6 +84,9 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 ## 2025
 
+- ``JBHI`` ***Multi-Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion*** <br> Jiaxing Xu, Mengcheng Lan, Xia Dong,  **Kai He**, et al.  [[Paper]]()
+- ``JBHI`` ***Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi-Source Domain Knowledge in EHRs*** <br> Jialun Wu, **Kai He**, Zeyu Gao, et al.  [[Paper]]()
+- ``EMNLP`` ***InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care*** <br> **Kai He**, Qika Lin, Hao Fei, et al.  [[Paper]]()
 - ``Nature Cancer`` ***ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering*** <br> Zeyu Gao, **Kai He**, Weiheng Su, et al.  [[Paper]]()
 - ``Information Fusion`` ***Domain-continual learning for multi-center anatomical detection via prompt-enhanced and densely-fused MedSAM*** <br> Zhan Gao, Ling Huang, ..., **Kai He** et al.  [[Paper]]()
 - ``EMNLP`` ***DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
