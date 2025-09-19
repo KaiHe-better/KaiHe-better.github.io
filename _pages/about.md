@@ -85,58 +85,100 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 ## 2025
 
-Gem: Empowering mllm for grounded ecg understanding with time series and images
-- ``NIPS`` ***Gem: Empowering mllm for grounded ecg understanding with time series and images*** <br> Xiang Lan, Feng Wu, **Kai He**, et al.  [[Paper]]()
-- ``JBHI`` ***Multi-Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion*** <br> Jiaxing Xu, Mengcheng Lan, Xia Dong,  **Kai He**, et al.  [[Paper]]()
-- ``JBHI`` ***Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi-Source Domain Knowledge in EHRs*** <br> Jialun Wu, **Kai He**, Zeyu Gao, et al.  [[Paper]]()
-- ``EMNLP`` ***InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care*** <br> **Kai He**, Qika Lin, Hao Fei, et al.  [[Paper]]()
-- ``Nature Cancer`` ***ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering*** <br> Zeyu Gao, **Kai He**, Weiheng Su, et al.  [[Paper]]()
-- ``Information Fusion`` ***Domain-continual learning for multi-center anatomical detection via prompt-enhanced and densely-fused MedSAM*** <br> Zhan Gao, Ling Huang, ..., **Kai He** et al.  [[Paper]]()
-- ``EMNLP`` ***DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
-- ``Information Fusion`` ***TAKECare: A temporal-hierarchical framework with knowledge fusion for personalized clinical predictive modeling*** <br> Jialun Wu, Xin Mei, Rui Mao, **Kai He**e, et al.  [[Paper]]()
-- ``ESWA`` ***Multi-granularity Semantic Extraction and Multi-task Fusion for Chinese Medical Entity Normalization Expert Systems With Applications*** <br> Wenhui Hou, **Kai He**, Rui Mao, et al.  [[Paper]]()
-- ``IEEE Transactions on Fuzzy Systems`` ***External Retrievals or Internal Priors? From RAG to Epitome-Augmented Generation by Fuzzy Selection*** <br>  **Kai He**, Jiaxing Xu, Qiq Lin, et al.  [[Paper]]()
-- ``Information Fusion`` ***Harnessing the Potential of Multimodal EHR data: A Comprehensive Survey of Clinical Predictive Modeling for Intelligent Healthcare*** <br> Wu Jialun, **Kai He**, Rui Mao, et al.  [[Paper]]() 
-- ``ACL 2025`` ***Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark***. <br> **Kai He**, Yucheng Huang, Wenqing Wang, et al.  [[Paper]]() 
-- ``ACL 2025`` ***Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with LLMs***. Qika Lin, Tianzhe Zhao, ***Kai He***, et al.  [[Paper]](https://arxiv.org/pdf/2501.18119) 
-- ``MICCAI 2025`` ***BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification***. <br> Xu Jiaxing, **He K**, Tang Y, et. al. [[Paper]]()
-- ``Cognitive Computation`` ***Exploring Cognitive Difference in Poetry! Collection via: A Case Study of the Book of Songs***. <br> Bao H, **He K**, Wang YG, et. al., [[Paper]]()
-- ``Cancer Research`` ***Bridging whole slide images and large language model for slide-level question answering***. <br> Gao Z, **He K**, Su W, et al.   [[Paper]](https://aacrjournals.org/cancerres/article/85/8_Supplement_1/2438/757197)
-- ``IEEE TIP`` ***Cross-modal Knowledge Diffusion-based Generation for Difference-aware Medical VQA***. <br> Qika Lin, **Kai He**, Yifan Zhu, et al.  . [[Paper]](https://ieeexplore.ieee.org/document/10964089)
-- ``Information Fusion`` ***From patches to WSIs: A systematic REVIEW of deep Multiple Instance Learning in computational pathology***. <br> Zhang Y, Gao Z, **He K**, et al. . (IF:14.8) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253525001009) 
-- ``Information Fusion``  ***A survey on pragmatic processing techniques***. Information Fusion, <br> Mao R, Ge M, Han S, et al. [[Paper]]( https://www.sciencedirect.com/science/article/pii/S1566253524004901 ) 
-- ``Information Fusion``  ***A survey of large language models for healthcare: from data, technology, and applications to accountability and ethics***. <br> **He K**, Mao R, Lin Q, et al.   [[Paper]]( https://www.sciencedirect.com/science/article/pii/S1566253525000363 ) 
+
+- Xiang Lan, Feng Wu, ***Kai He***, Qinghao Zhao, Shenda Hong, Mengling Feng. Gem: Empowering MLLM for Grounded ECG Understanding with Time Series and Images [C]. Advances in Neural Information Processing Systems (NeurIPS), 2025, Accepted.
+
+- Jiaxing Xu, Mengcheng Lan, Xia Dong, ***Kai He***, Wei Zhang, Qingtian Bian, Yiping Ke. Multi-Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion [J]. IEEE Journal of Biomedical and Health Informatics (JBHI), 2025, Online.
+
+- Jialun Wu, ***Kai He***, Zeyu Gao, Xuequn Shang, Mengling Feng. Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi-Source Domain Knowledge in EHRs [J]. IEEE Journal of Biomedical and Health Informatics (JBHI), 2025, Online.
+
+- ***Kai He***, Qika Lin, Hao Fei, Eng Siong Chng, Dehan Hong, Marcus Eng Hock Ong, Mengling Feng. InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care [C]. Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, Accepted.
+
+- Zeyu Gao, ***Kai He***, Weiheng Su, Ines P. Machado, William McGough, Mercedes Jimenez-Linan, Brian Rous, Chunbao Wang, Chengzu Li, Xiaobo Pang, Tieliang Gong, Ming Y. Lu, Faisal Mahmood, Mengling Feng, Li Chen, Mireia Crispin-Ortuzar. ALPaCA: Adapting Llama for Pathology Context Analysis to Enable Slide-Level Question Answering [J]. Nature Cancer, 2025, Accepted.
+
+- Zhan Gao, Ling Huang, Qika Lin, Bin Pu, ***Kai He***, Mengling Feng, Kenli Li. Domain-Continual Learning for Multi-Center Anatomical Detection via Prompt-Enhanced and Densely-Fused MedSAM [J]. Information Fusion, 2025: 103614.
+
+- Zhihui Chen, ***Kai He***, Yucheng Huang, Yunxiao Zhu, Mengling Feng. DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains [C]. Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, Accepted.
+
+- Jialun Wu, Xin Mei, Rui Mao, ***Kai He***, Erik Cambria. TAKECare: A Temporal-Hierarchical Framework with Knowledge Fusion for Personalized Clinical Predictive Modeling [J]. Information Fusion, 2025: 103620.
+
+- Wenhui Hou, ***Kai He***, Rui Mao, Jianqiang Wang, Xiaokang Wang, Mengling Feng. Multi-Granularity Semantic Extraction and Multi-Task Fusion for Chinese Medical Entity Normalization [J]. Expert Systems with Applications, 2025: 129088.
+
+- ***Kai He***, Jiaxing Xu, Qika Lin, Wenqing Wang, Zeyu Gao, Jialun Wu, Yucheng Huang, Mengling Feng. External Retrievals or Internal Priors? From RAG to Epitome-Augmented Generation by Fuzzy Selection [J]. IEEE Transactions on Fuzzy Systems, 2025.
+
+- Jialun Wu, ***Kai He***, Rui Mao, Xuequn Shang, Erik Cambria. Harnessing the Potential of Multimodal EHR Data: A Comprehensive Survey of Clinical Predictive Modeling for Intelligent Healthcare [J]. Information Fusion, 2025: 103283.
+
+- ***Kai He***, Yucheng Huang, Wenqing Wang, Delong Ran, Dongming Sheng, Junxuan Huang, Qika Lin, Jiaxing Xu, Wenqiang Liu, Mengling Feng. Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark [C]. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025: 15030–15052.
+
+- Qika Lin, Tianzhe Zhao, ***Kai He***, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng. Self-Supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models [C]. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025: 13587–13602.
+
+- Jiaxing Xu, ***Kai He***, Yue Tang, Wei Li, Mengcheng Lan, Xia Dong, Yiping Ke, Mengling Feng. BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification [C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2025, Accepted.
+
+- Hui Bao, ***Kai He***, Yige Wang, Zeyu Gao. Exploring Cognitive Difference in Poetry Collection via: A Case Study of the Book of Songs [J]. Cognitive Computation, 2025, 17(3): 106.
+
+- Zeyu Gao, ***Kai He***, Weiheng Su, Ines P. Machado, William McGough, Mercedes Jimenez-Linan, Brian Rous, Chunbao Wang, Chengzu Li, Xiaobo Pang, Tieliang Gong, Ming Y. Lu, Faisal Mahmood, Mengling Feng, Li Chen, Mireia Crispin-Ortuzar. Bridging Whole Slide Images and Large Language Model for Slide-Level Question Answering [J]. Cancer Research, 2025, 85(8_Supplement_1): 2438–2438.
+
+- Qika Lin, ***Kai He***, Yifan Zhu, Fangzhi Xu, Erik Cambria, Mengling Feng. Cross-Modal Knowledge Diffusion-Based Generation for Difference-Aware Medical VQA [J]. IEEE Transactions on Image Processing, 2025: 2421–2434.
+
+- Yuchen Zhang, Zeyu Gao, ***Kai He***, Chen Li, Rui Mao. From Patches to WSIs: A Systematic Review of Deep Multiple Instance Learning in Computational Pathology [J]. Information Fusion, 2025: 103027.
+
+- Rui Mao, Mengshi Ge, Sooji Han, Wei Li, ***Kai He***, Luyao Zhu, Erik Cambria. A Survey on Pragmatic Processing Techniques [J]. Information Fusion, 2025, 114: 102712.
+
+- ***Kai He***, Rui Mao, Qika Lin, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. A Survey of Large Language Models for Healthcare: From Data, Technology, and Applications to Accountability and Ethics [J]. Information Fusion, 2025, 118: 102963.
 
 ## 2024
-- Lin Q, Zhu Y, Mei X, et al. Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey[J]. Information Fusion, 2024: 102795.  [[Paper]]( https://www.sciencedirect.com/science/article/pii/S1566253524005736 )
-- Xu J, **He K**, Lan M, et al. Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification[C]//Proceedings of the 33rd ACM International Conference on Information and Knowledge Management. 2024: 2671-2681.  [[Paper]]( https://dl.acm.org/doi/pdf/10.1145/3627673.3679560 ) 
-- Li Y, Ma X, Zhou X, et al. Integrating K+ Entities into Coreference Resolution on Biomedical Texts[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024.  [[Paper]]( https://ieeexplore.ieee.org/abstract/document/10643354 ) 
-- Mao R, **He K**, Ong C, et al. MetaPro 2.0: Computational metaphor processing on the effectiveness of anomalous language modeling[C]//Findings of the Association for Computational Linguistics ACL 2024. 2024: 9891-9908.  [[Paper]]( https://aclanthology.org/2024.findings-acl.590.pdf )
-- Wu J, Yu X, **He K**, et al. Promise: A pre-trained knowledge-infused multimodal representation learning framework for medication recommendation[J]. Information Processing & Management, 2024, 61(4): 103758.  [[Paper]](  )
-- Mao R, **He K**, Zhang X, et al. A survey on semantic processing techniques[J]. Information Fusion, 2024, 101: 101988.  [[Paper]]( https://www.sciencedirect.com/science/article/pii/S0306457324001183 ) 
+- Q. Lin, Y. Zhu, X. Mei, ***Kai He***， et al. Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey [J]. Information Fusion, 2024: 102795.
+
+- J. Xu, ***Kai He***, M. Lan, et al. Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification [C]. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 2024: 2671–2681.
+
+- Y. Li, X. Ma, X. Zhou, ***Kai He***， et al. Integrating K+ Entities into Coreference Resolution on Biomedical Texts [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024.
+
+- R. Mao, ***Kai He***, C. Ong, et al. MetaPro 2.0: Computational metaphor processing on the effectiveness of anomalous language modeling [C]. Findings of the Association for Computational Linguistics (ACL), 2024: 9891–9908.
+
+- J. Wu, X. Yu, ***Kai He***, et al. Promise: A pre-trained knowledge-infused multimodal representation learning framework for medication recommendation [J]. Information Processing & Management, 2024, 61(4): 103758.
+
+- R. Mao, ***Kai He***, X. Zhang, et al. A survey on semantic processing techniques [J]. Information Fusion, 2024, 101: 101988.
+
+
 
 ## 2023
-- Zhang X, Mao R, **He K**, et al. Neuro-symbolic sentiment analysis with dynamic word sense disambiguation[C]//Findings of the Association for Computational Linguistics: EMNLP 2023. 2023: 8772-8783.  [[Paper]]( https://aclanthology.org/2023.findings-emnlp.587.pdf ) 
-- Wu J, **He K**, Mao R, et al. MEGACare: Knowledge-guided multi-view hypergraph predictive framework for healthcare[J]. Information Fusion, 2023, 100: 101939.  [[Paper]]( https://w.sentic.net/megacare.pdf ) 
-- **He K**, Mao R, Huang Y, et al. Template-free prompting for few-shot named entity recognition via semantic-enhanced contrastive learning[J]. IEEE transactions on neural networks and learning systems, 2023.  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10264144 ) 
-- Mao R, Li X, **He K**, et al. MetaPro Online: A computational metaphor processing online system[C]//Proceedings of the 61st annual meeting of the association for computational linguistics. Association for Computational Linguistics (ACL), 2023.  [[Paper]]( https://aura.abdn.ac.uk/bitstream/handle/2164/22918/Mao_etal_ACL_Metapro_Online_a_VOR.pdf?sequence=1 )
-- **He K**, Huang Y, Mao R, et al. Virtual prompt pre-training for prototype-based few-shot relation extraction[J]. Expert systems with applications, 2023, 213: 118927.  [[Paper]]( https://sentic.net/virtual-prompt-for-relation-extraction.pdf ) 
-- Mao R, Liu Q, **He K**, et al. The biases of pre-trained language models: An empirical study on prompt-based sentiment analysis and emotion detection[J]. IEEE transactions on affective computing, 2022, 14(3): 1743-1753.  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9881877  )
-- 
-## 2022
-- **He K**, Mao R, Gong T, et al. JCBIE: a joint continual learning neural network for biomedical information extraction[J]. BMC bioinformatics, 2022, 23(1): 549.  [[Paper]]( https://link.springer.com/content/pdf/10.1186/s12859-022-05096-w.pdf ) 
-- Mao B, Jia C, Huang Y, et al. Uncertainty-guided mutual consistency training for semi-supervised biomedical relation extraction[C]//2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2022: 2318-2325.  [[Paper]]( https://ieeexplore.ieee.org/abstract/document/9995416 )
-- **He K**, Mao B, Zhou X, et al. Knowledge enhanced coreference resolution via gated attention[C]//2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2022: 2287-2293.  [[Paper]]( https://ieeexplore.ieee.org/abstract/document/9995551 ) 
-- Huang Y, **He K**, Wang Y, et al. Copner: Contrastive learning with prompt guiding for few-shot named entity recognition[C]//Proceedings of the 29th International conference on computational linguistics. 2022: 2515-2527.  [[Paper]](https://aclanthology.org/2022.coling-1.222.pdf  ) 
-- **He K**, Mao R, Gong T, et al. Meta-based self-training and re-weighting for aspect-based sentiment analysis[J]. IEEE Transactions on Affective Computing, 2022, 14(3): 1731-1742.  [[Paper]]( https://ieeexplore.ieee.org/abstract/document/9870538 )
 
-## Before 2022
-- Li Y, Ma X, Zhou X, et al. Knowledge enhanced lstm for coreference resolution on biomedical texts[J]. Bioinformatics, 2021, 37(17): 2699-2705.  [[Paper]]( https://academic.oup.com/bioinformatics/article-pdf/37/17/2699/50339149/btab153.pdf ) 
-- **He K**, Yao L, Zhang J W, et al. Construction of genealogical knowledge graphs from obituaries: Multitask neural network extraction system[J]. Journal of medical Internet research, 2021, 23(8): e25670.  [[Paper]]( https://www.jmir.org/2021/8/e25670/ ) 
-- Bao H, **He K**, Yin X, et al. Bert-based meta-learning approach with looking back for sentiment analysis of literary book REVIEWs[C]//Natural Language Processing and Chinese Computing: 10th CCF International Conference, NLPCC 2021, Qingdao, China, October 13–17, 2021, Proceedings, Part II 10. Springer International Publishing, 2021: 235-247.  [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_18  )
-- **He K**, Wu J, Ma X, et al. Extracting kinship from obituary to enhance electronic health records for genetic research[C]//Proceedings of the Fourth social media mining for health applications (# SMM4H) workshop & shared task. 2019: 1-10.  [[Paper]]( https://aclanthology.org/W19-3201.pdf ) 
-- **He K**, Hong N, Lapalme-Remis S, et al. Understanding the patient perspective of epilepsy treatment through text mining of online patient support groups[J]. Epilepsy & Behavior, 2019, 94: 65-71.  [[Paper]]( https://www.sciencedirect.com/science/article/pii/S1525505018309417 ) 
-- Li C, Xu X, Zhou G, et al. Implementation of National Health Informatization in China: survey about the status quo[J]. JMIR medical informatics, 2019, 7(1): e12238.  [[Paper]]( https://medinform.jmir.org/2019/1/e12238 ) 
+- X. Zhang, R. Mao, ***Kai He***, et al. Neuro-symbolic sentiment analysis with dynamic word sense disambiguation [C]. Findings of the Association for Computational Linguistics: EMNLP, 2023: 8772–8783.
+
+- J. Wu, ***Kai He***, R. Mao, et al. MEGACare: Knowledge-guided multi-view hypergraph predictive framework for healthcare [J]. Information Fusion, 2023, 100: 101939.
+
+- ***Kai He***, R. Mao, Y. Huang, et al. Template-free prompting for few-shot named entity recognition via semantic-enhanced contrastive learning [J]. IEEE Transactions on Neural Networks and Learning Systems, 2023.
+
+- R. Mao, X. Li, ***Kai He***, et al. MetaPro Online: A computational metaphor processing online system [C]. Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
+
+- ***Kai He***, Y. Huang, R. Mao, et al. Virtual prompt pre-training for prototype-based few-shot relation extraction [J]. Expert Systems with Applications, 2023, 213: 118927.
+
+- R. Mao, Q. Liu, ***Kai He***, et al. The biases of pre-trained language models: An empirical study on prompt-based sentiment analysis and emotion detection [J]. IEEE Transactions on Affective Computing, 2022, 14(3): 1743–1753.
+
+  
+## 2022 and Before
+- ***Kai He***, Rui Mao, T. Gong, et al. JCBIE: A joint continual learning neural network for biomedical information extraction [J]. BMC Bioinformatics, 2022, 23(1): 549.
+
+- B. Mao, C. Jia, Y. Huang, et al. Uncertainty-guided mutual consistency training for semi-supervised biomedical relation extraction [C]. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022: 2318–2325.
+
+- ***Kai He***, B. Mao, X. Zhou, et al. Knowledge enhanced coreference resolution via gated attention [C]. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022: 2287–2293.
+
+- Y. Huang, ***Kai He***, Y. Wang, et al. CopNER: Contrastive learning with prompt guiding for few-shot named entity recognition [C]. Proceedings of the 29th International Conference on Computational Linguistics (COLING), 2022: 2515–2527.
+
+- ***Kai He***, Rui Mao, T. Gong, et al. Meta-based self-training and re-weighting for aspect-based sentiment analysis [J]. IEEE Transactions on Affective Computing, 2022, 14(3): 1731–1742.
+
+- Y. Li, X. Ma, X. Zhou, et al. Knowledge-Enhanced LSTM for Coreference Resolution on Biomedical Texts [J]. Bioinformatics, 2021, 37(17): 2699–2705.
+
+- ***Kai He***, L. Yao, J. W. Zhang, et al. Construction of Genealogical Knowledge Graphs from Obituaries: Multitask Neural Network Extraction System [J]. Journal of Medical Internet Research, 2021, 23(8): e25670.
+
+- H. Bao, ***Kai He***, X. Yin, et al. BERT-Based Meta-Learning Approach with Looking Back for Sentiment Analysis of Literary Book Reviews [C]. Natural Language Processing and Chinese Computing (NLPCC), 2021: 235–247.
+
+- ***Kai He***, J. Wu, X. Ma, et al. Extracting Kinship from Obituaries to Enhance Electronic Health Records for Genetic Research [C]. Proceedings of the Fourth Social Media Mining for Health Applications (SMM4H) Workshop & Shared Task, 2019: 1–10.
+
+- ***Kai He***, N. Hong, S. Lapalme-Remis, et al. Understanding the Patient Perspective of Epilepsy Treatment through Text Mining of Online Patient Support Groups [J]. Epilepsy & Behavior, 2019, 94: 65–71.
+
+- C. Li, X. Xu, G. Zhou, ***Kai He***， et al. Implementation of National Health Informatization in China: Survey about the Status Quo [J]. JMIR Medical Informatics, 2019, 7(1): e12238.
+
 
 
 ## Under REVIEW
