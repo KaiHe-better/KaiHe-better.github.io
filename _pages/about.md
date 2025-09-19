@@ -31,6 +31,7 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉🎉 Our paper on Funfation Model for time series and images is accepted by NIPS 2025. Congrats to [Dr. Lan]([https://scholar.google.com.hk/citations?user=HzVhJf0AAAAJ&hl=zh-CN](https://scholar.google.com.hk/citations?user=09Qb5fUAAAAJ&hl=zh-CN&oi=ao)).
 - *2025.09*: &nbsp;🎉🎉 Our paper on Multi-atlas Brain Network Detection is accepted by Journal of Biomedical and Health Informatics (JBHI). Congrats to [Dr. Xu](https://scholar.google.com.hk/citations?user=HzVhJf0AAAAJ&hl=zh-CN).
 - *2025.09*: &nbsp;🎉🎉 Our paper on Foundation Model for EHR is accepted by Journal of Biomedical and Health Informatics (JBHI). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
 - *2025.09*: &nbsp;🎉🎉 Our paper on Intelligent Telephone Triage is accepted by EMNLP 2025. 
@@ -84,6 +85,8 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 ## 2025
 
+Gem: Empowering mllm for grounded ecg understanding with time series and images
+- ``NIPS`` ***Gem: Empowering mllm for grounded ecg understanding with time series and images*** <br> Xiang Lan, Feng Wu, **Kai He**, et al.  [[Paper]]()
 - ``JBHI`` ***Multi-Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion*** <br> Jiaxing Xu, Mengcheng Lan, Xia Dong,  **Kai He**, et al.  [[Paper]]()
 - ``JBHI`` ***Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi-Source Domain Knowledge in EHRs*** <br> Jialun Wu, **Kai He**, Zeyu Gao, et al.  [[Paper]]()
 - ``EMNLP`` ***InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care*** <br> **Kai He**, Qika Lin, Hao Fei, et al.  [[Paper]]()
