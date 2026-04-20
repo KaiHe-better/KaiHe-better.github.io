@@ -254,8 +254,8 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 # 💻 Services
 - Journal 
    - Associate Editor :
-       IEEE Transactions on Affective Computing （IF:9.6）
-       Health Data Science 
+       IEEE Transactions on Affective Computing （IF:9.6）；
+       Health Data Science （IF:4.5, pending）
    - Guest Leading Editor:
        Special Issue on Can AI Care? Affective LLMs for the Future of Mental Health of TAC journal.
    - Reviewer (Selected): 
