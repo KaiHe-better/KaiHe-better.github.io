@@ -31,24 +31,7 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 # 🔥 News
 
-- *2025.09*: &nbsp;🎉🎉 Our paper on Funfation Model for time series and images is accepted by NIPS 2025. Congrats to [Dr. Lan]([https://scholar.google.com.hk/citations?user=HzVhJf0AAAAJ&hl=zh-CN](https://scholar.google.com.hk/citations?user=09Qb5fUAAAAJ&hl=zh-CN&oi=ao)).
-- *2025.09*: &nbsp;🎉🎉 Our paper on Multi-atlas Brain Network Detection is accepted by Journal of Biomedical and Health Informatics (JBHI). Congrats to [Dr. Xu](https://scholar.google.com.hk/citations?user=HzVhJf0AAAAJ&hl=zh-CN).
-- *2025.09*: &nbsp;🎉🎉 Our paper on Foundation Model for EHR is accepted by Journal of Biomedical and Health Informatics (JBHI). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
-- *2025.09*: &nbsp;🎉🎉 Our paper on Intelligent Telephone Triage is accepted by EMNLP 2025. 
-- *2025.08*: &nbsp;🎉🎉 Our paper on Slide-level Question Answering is accepted by Nature Cancer. Congrats to [Dr. Gao](https://scholar.google.com.hk/citations?user=CeP6dkcAAAAJ&hl).
-- *2025.07*: &nbsp;🎉🎉 Our paper on LLM-Generated Text Detection is accepted by EMNLP.
-- *2025.07*: &nbsp;🎉🎉 Our paper on Personalized Clinical Prediction is accepted Information Fusion (IF 14.8). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
-- *2025.07*: &nbsp;🎉🎉 Our paper on Multi-center Anatomical Detection is accepted Information Fusion (IF 14.8). Congrats to [Dr. Gao].
-- *2025.07*: &nbsp;🎉🎉 Our paper on Chinese Medical Entity Normalization is accepted by ESWA (IF 7.5). Congrats to [Dr. Hou]( ).
-- *2025.06*: &nbsp;🎉🎉 Our paper on Fuzzy RAG is accepted by IEEE Transactions on Fuzzy Systems (IF 11.9).
-- *2025.05*: &nbsp;🎉🎉 Our paper of Multimodal EHR Survey is accepted Information Fusion (IF 14.8). Congrats to [Dr. Wu](https://scholar.google.com.hk/citations?user=bZOcwEYAAAAJ&hl).
-- *2025.05*: &nbsp;🎉🎉 Our two paper are accepted by ACL 2025. Congrats to [Dr. Lin](https://scholar.google.com.hk/citations?user=k8BKz0MAAAAJ&h).
-- *2025.05*: &nbsp;🎉🎉 Our paper of neurological condition identification are accepted by MICCAI 2025. Congrats to [Dr. Xu](https://scholar.google.com.hk/citations?user=HzVhJf0AAAAJ&hl).
-- *2025.05*: &nbsp;🎉🎉 Our paper of exploring cognitive difference via LLM is accepted by Cognitive Computation. Congrats to [Dr. Bao]( )
-- *2025.04*: &nbsp;🎉🎉 Our paper of multimodal meidcal LLM is accepted by Cancer Research (IF 12.5). Congrats to [Dr. Gao](https://scholar.google.com.hk/citations?user=CeP6dkcAAAAJ&hl).
-- *2025.04*: &nbsp;🎉🎉 Our paper of diffusion-based difference-aware medical VQA is accepted by IEEE TIP. Congrats to [Dr. Lin](https://scholar.google.com.hk/citations?user=k8BKz0MAAAAJ&h).
-- *2025.02*: &nbsp;🎉🎉 Our survey paper on Multiple Instance Learning in computational pathology is accepted by Information Fusion (IF 14.8).
-- *2024.12*: &nbsp;🎉🎉 Our paper reveives ****Best Paper Award****, IEEE Transactions on Affective Computing, titled "The Biases of Pre-Trained Language Models: An Empirical Study on PromptBased Sentiment Analysis and Emotion Detection" 
+- *2026.04*: &nbsp;🎉🎉 Our paper on vision transformer quantization is accepted by Pattern Recognition. Congrats to Dr. Kang.
 
 
 
@@ -83,7 +66,21 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 
 
+## 2026
+
+- Yan Kang, Shouhao Xu, Qika Lin, ***Kai He***, Zhan Gao, Zhuangzhuang Chen, Bin Pu. MTLQ-ViT: Multi-Granularity Tail-Enhanced Logarithmic Quantization for Vision Transformers [J]. Pattern Recognition, 2026: 113769.
+
 ## 2025
+
+- Zeyu Gao, Anyu Mao, Yuxing Dong, Hannah Clayton, Jialun Wu, Jiashuai Liu, Chunbao Wang, ***Kai He***, Tieliang Gong, Chen Li, Mireia Crispin-Ortuzar. SMMILe Enables Accurate Spatial Quantification in Digital Pathology Using Multiple-Instance Learning [J]. Nature Cancer, 2025, 6: 2025–2041.
+
+- Xiaobao Wang, Meng Ge, Lingshan Li, Di Jin, ***Kai He***, Erik Cambria. Global Entity Relationship Enhancement Network for Multimodal Sarcasm Detection [J]. IEEE Transactions on Affective Computing, 2025, Online.
+
+- Jialun Wu, Xin Mei, ***Kai He***, Jiaxing Xu, Qika Lin, Zeyu Gao, Rui Mao. Neuro-Symbolic AI in Healthcare [C]. 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025, Accepted.
+
+- Huiting Huang, Tieliang Gong, ***Kai He***, Jialun Wu, Erik Cambria, Mengling Feng. Robust Multimodal Sentiment Analysis via Double Information Bottleneck [J]. Information Fusion, 2025: 103964.
+
+- Qika Lin, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, ***Kai He***, Zhen Peng, Erik Cambria, Mengling Feng. Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey [J]. Information Fusion, 2025, 116: 102795.
 
 
 - Xiang Lan, Feng Wu, ***Kai He***, Qinghao Zhao, Shenda Hong, Mengling Feng. Gem: Empowering MLLM for Grounded ECG Understanding with Time Series and Images [C]. Advances in Neural Information Processing Systems (NeurIPS), 2025, Accepted.
@@ -127,8 +124,6 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 - ***Kai He***, Rui Mao, Qika Lin, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. A Survey of Large Language Models for Healthcare: From Data, Technology, and Applications to Accountability and Ethics [J]. Information Fusion, 2025, 118: 102963.
 
 ## 2024
-- Q. Lin, Y. Zhu, X. Mei, ***Kai He***， et al. Has multimodal learning delivered universal intelligence in healthcare? A comprehensive survey [J]. Information Fusion, 2024: 102795.
-
 - J. Xu, ***Kai He***, M. Lan, et al. Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification [C]. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 2024: 2671–2681.
 
 - Y. Li, X. Ma, X. Zhou, ***Kai He***， et al. Integrating K+ Entities into Coreference Resolution on Biomedical Texts [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024.
@@ -186,18 +181,12 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 D Perera, G Habib, Q Xu, DJ Tan, K He, E Cambria, M Feng
 - Fundamental Algorithms for Retrieval Augmented Generation: A Survey
 Zihao Huang, Rui Mao, Xiaobao Wu, Kai He et. al.
-- GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images
-Xiang Lan, Feng Wu, Kai He, Qinghao Zhao, Shenda Hong, Mengling Feng
 - Mind the Gap: A Gap-Aware Corpus Augmentation Framework for Topic-Level Imbalance in Mental Health Retrieval
 Amanda Chan, James Jiayu Liu, Kai He, Onno P. Kampman
 - BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification
 Jiaxing Xu, Kai He, Yue Tang
 - A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning
 Qika Lin, Yifan Zhu, ... , Kai He
-- Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi‑Source Domain Knowledge in EHRs
-WU JL, MEI X, HE K, ET. AL.
-- Robust Multimodal Sentiment Analysis via Double Information Bottleneck
-HUANG, HT, GONG TLHE K, ET.AL.
 - A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models
 LIN QK, PENG X, HE K, ET. AL.
 - Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution
@@ -205,12 +194,8 @@ RUAN,YC, LAN X, HE K, ET. AL.
 - Unraveling the Evolution of Public Cognition of COVID‑19: A Concept Mapping Analysis through Metaphors in US
 Tweets
 MAO R, TAN Y, HE K, ET. AL.
-- Multi‑Atlas Brain Network Classification through Consistency Distillation and Complementary Information Fusion
-XU JX, LAN MC, HE K, ET. AL.
 - Towards Unified Neurosymbolic Reasoning on Knowledge Graphs
 LIN QK, XU FZ, HE K, ET. AL.
-- Global Entity Relationship Enhancement Network for Multimodal Sarcasm Detection
-WANG XB, GE M, HE K, ET. AL. 
 
  
 <span class='anchor' id='-Honors-and-Awards'></span>
