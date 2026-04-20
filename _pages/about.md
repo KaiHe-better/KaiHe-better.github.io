@@ -236,6 +236,7 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 # 💬 Academic Projects
 
+-   Project of An Empathetic LLMs system for Comprehensive Mental Health Support and Assessment, Talent Development Award Project, ***PI***. SSHSPH, Grant 26-0065-A0001.
 -   Project of Future-Ready Interventions for Survival After Cardiac Arrest (FRISCA), Grant A-8001902-00-00.
 -   Project of Intelligent Telephone Triage in Pre-Hospital Emergency Care. AISG,  Grant AISG2-TC-2022-004.
 -   Project of National Natural Science Foundation of China, research on the construction of metabolic pathway model based on semantic analysis of biological text, project number 61772409.
@@ -254,15 +255,15 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 - Journal 
    - Associate Editor :
        IEEE Transactions on Affective Computing （IF:9.6）
+       Health Data Science 
    - Guest Leading Editor:
        Special Issue on Can AI Care? Affective LLMs for the Future of Mental Health of TAC journal.
    - Reviewer (Selected): 
-       IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Affective Computing, Information Fusion, Expert System with Applicatiopn, Neurocomputing, Bioinformastics, Information Processing and Management, Knowledge-Based Systems, Cognitive Computation.
+       Nature Communcation, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Affective Computing, Information Fusion, Expert System with Applicatiopn, Neurocomputing, Bioinformastics, Information Processing and Management, Knowledge-Based Systems, Cognitive Computation.
 
 - Conference
    - Are-Chair of LREC 2026 (Psycholinguistics, Cognitive Linguistics and Linguistic Theories)
    - Co‑chair of The 7th International Workshop on Artificial Intelligence for Precision Medicine, 2025 (https://ai-precmed.github.io). 
    - Co‑chair of NLP‑SIG workshop, 2023‑now
    - Program Committee Member: 
-
         ACL’23-25, EMNLP’22-23, COLING’22-23, SIGIR’23, CIKM’24, IJCAI’23-24, IJCNN'25 etc.
