@@ -1,0 +1,73 @@
+{
+  "entries": [
+    {
+      "title": "MTLQ-ViT: Multi-Granularity Tail-Enhanced Logarithmic Quantization for Vision Transformers",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-04",
+      "markdown": "- Yan Kang, Shouhao Xu, Qika Lin, ***Kai He***, Zhan Gao, Zhuangzhuang Chen, Bin Pu. MTLQ-ViT: Multi-Granularity Tail-Enhanced Logarithmic Quantization for Vision Transformers [J]. Pattern Recognition, 2026: 113769.",
+      "news": "- *2026.04*: &nbsp;🎉🎉 Our paper on vision transformer quantization is accepted by Pattern Recognition. Congrats to Dr. Kang."
+    },
+    {
+      "title": "Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases",
+      "section": "preprint",
+      "year": 2026,
+      "sort_date": "2026-03",
+      "markdown": "- Jiaxing Xu, Jingying Ma, Xin Lin, Yuxiao Liu, ***Kai He***, Qika Lin, Yiping Ke, Yang Li, Dinggang Shen, Mengling Feng. Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases [Preprint]. arXiv:2603.20348, 2026.",
+      "news": "- *2026.03*: &nbsp;🎉🎉 Our paper on multi-view brain network foundation model is released as an arXiv preprint. Congrats to Dr. Xu."
+    },
+    {
+      "title": "MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning",
+      "section": "preprint",
+      "year": 2026,
+      "sort_date": "2026-03",
+      "markdown": "- Zhihui Chen, ***Kai He***, Qingyuan Lei, Bin Pu, Jian Zhang, Yuling Xu, Mengling Feng. MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning [Preprint]. arXiv:2603.18577, 2026.",
+      "news": "- *2026.03*: &nbsp;🎉🎉 Our paper on interpretable medical deepfake detection is released as an arXiv preprint."
+    },
+    {
+      "title": "Recovering Coherent Affective Patterns: Addressing Modality Missing in Multimodal Sentiment Analysis",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-02",
+      "markdown": "- Huiting Huang, Tieliang Gong, ***Kai He***, Wen Wen, Weizhan Zhang, Mengling Feng. Recovering Coherent Affective Patterns: Addressing Modality Missing in Multimodal Sentiment Analysis [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 21957–21965.",
+      "news": "- *2026.02*: &nbsp;🎉🎉 Our paper on recovering coherent affective patterns is accepted by AAAI 2026."
+    },
+    {
+      "title": "A Survey of LLM Reasoning in Healthcare and Medicine: From Individual Modeling to Collaborative Agents",
+      "section": "preprint",
+      "year": 2026,
+      "sort_date": "2026-02",
+      "markdown": "- Qika Lin, Luwei Xiao, Bin Pu, Kaize Shi, Yanrui Du, Jiaxing Xu, ***Kai He***, Shuai Zhao, Erik Cambria, Swapnil Mishra, Mengling Feng. A Survey of LLM Reasoning in Healthcare and Medicine: From Individual Modeling to Collaborative Agents [Preprint]. TechRxiv, 2026.",
+      "news": "- *2026.02*: &nbsp;🎉🎉 Our survey paper on LLM reasoning in healthcare and medicine is released as a TechRxiv preprint."
+    },
+    {
+      "title": "From Latent Signals to Reflection Behavior: Tracing Meta-Cognitive Activation Trajectory in R1-Style LLMs",
+      "section": "preprint",
+      "year": 2026,
+      "sort_date": "2026-02",
+      "markdown": "- Yanrui Du, Yibo Gao, Sendong Zhao, Jiayun Li, Haochun Wang, Qika Lin, ***Kai He***, Bing Qin, Mengling Feng. From Latent Signals to Reflection Behavior: Tracing Meta-Cognitive Activation Trajectory in R1-Style LLMs [Preprint]. arXiv:2602.01999, 2026.",
+      "news": "- *2026.02*: &nbsp;🎉🎉 Our paper on meta-cognitive activation trajectory in R1-style LLMs is released as an arXiv preprint."
+    },
+    {
+      "title": "A3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation",
+      "aliases": [
+        "A<sup>3</sup>-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation",
+        "A^3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation",
+        "A³-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation"
+      ],
+      "section": "preprint",
+      "year": 2026,
+      "sort_date": "2026-01",
+      "markdown": "- Jian Zhang, Yu He, Zhiyuan Wang, Zhangqi Wang, ***Kai He***, Fangzhi Xu, Qika Lin, Jun Liu. A<sup>3</sup>-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation [Preprint]. arXiv:2601.09274, 2026.",
+      "news": "- *2026.01*: &nbsp;🎉🎉 Our paper on memory-driven scientific reasoning benchmark is released as an arXiv preprint."
+    },
+    {
+      "title": "MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-01",
+      "markdown": "- Jian Zhang, Zhangqi Wang, Haiping Zhu, Kangda Cheng, ***Kai He***, Bo Li, Qika Lin, Jun Liu, Erik Cambria. MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 16307–16315.",
+      "news": "- *2026.01*: &nbsp;🎉🎉 Our paper on multi-agent adaptive reasoning for automated prompt optimization is accepted by AAAI 2026."
+    }
+  ]
+}

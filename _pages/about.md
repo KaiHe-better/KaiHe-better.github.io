@@ -31,15 +31,16 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 # 🔥 News
 
+<!-- AUTO_NEWS_START -->
 - *2026.04*: &nbsp;🎉🎉 Our paper on vision transformer quantization is accepted by Pattern Recognition. Congrats to Dr. Kang.
 - *2026.03*: &nbsp;🎉🎉 Our paper on multi-view brain network foundation model is released as an arXiv preprint. Congrats to Dr. Xu.
 - *2026.03*: &nbsp;🎉🎉 Our paper on interpretable medical deepfake detection is released as an arXiv preprint.
 - *2026.02*: &nbsp;🎉🎉 Our paper on recovering coherent affective patterns is accepted by AAAI 2026.
-- *2026.02*: &nbsp;🎉🎉 Our survey paper on LLM reasoning in healthcare and medicine is released as a TechRxiv preprint.
 - *2026.02*: &nbsp;🎉🎉 Our paper on meta-cognitive activation trajectory in R1-style LLMs is released as an arXiv preprint.
-- *2026.01*: &nbsp;🎉🎉 Our paper on memory-driven scientific reasoning benchmark is released as an arXiv preprint.
+- *2026.02*: &nbsp;🎉🎉 Our survey paper on LLM reasoning in healthcare and medicine is released as a TechRxiv preprint.
 - *2026.01*: &nbsp;🎉🎉 Our paper on multi-agent adaptive reasoning for automated prompt optimization is accepted by AAAI 2026.
-
+- *2026.01*: &nbsp;🎉🎉 Our paper on memory-driven scientific reasoning benchmark is released as an arXiv preprint.
+<!-- AUTO_NEWS_END -->
 
 
 
@@ -73,6 +74,7 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 
 
+<!-- AUTO_PUBLICATIONS_START -->
 ## 2026
 
 - Yan Kang, Shouhao Xu, Qika Lin, ***Kai He***, Zhan Gao, Zhuangzhuang Chen, Bin Pu. MTLQ-ViT: Multi-Granularity Tail-Enhanced Logarithmic Quantization for Vision Transformers [J]. Pattern Recognition, 2026: 113769.
@@ -80,6 +82,8 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 - Huiting Huang, Tieliang Gong, ***Kai He***, Wen Wen, Weizhan Zhang, Mengling Feng. Recovering Coherent Affective Patterns: Addressing Modality Missing in Multimodal Sentiment Analysis [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 21957–21965.
 
 - Jian Zhang, Zhangqi Wang, Haiping Zhu, Kangda Cheng, ***Kai He***, Bo Li, Qika Lin, Jun Liu, Erik Cambria. MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 16307–16315.
+
+
 
 ## 2025
 
@@ -92,7 +96,6 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 - Huiting Huang, Tieliang Gong, ***Kai He***, Jialun Wu, Erik Cambria, Mengling Feng. Robust Multimodal Sentiment Analysis via Double Information Bottleneck [J]. Information Fusion, 2025: 103964.
 
 - Qika Lin, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, ***Kai He***, Zhen Peng, Erik Cambria, Mengling Feng. Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey [J]. Information Fusion, 2025, 116: 102795.
-
 
 - Xiang Lan, Feng Wu, ***Kai He***, Qinghao Zhao, Shenda Hong, Mengling Feng. Gem: Empowering MLLM for Grounded ECG Understanding with Time Series and Images [C]. Advances in Neural Information Processing Systems (NeurIPS), 2025, Accepted.
 
@@ -134,7 +137,10 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - ***Kai He***, Rui Mao, Qika Lin, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. A Survey of Large Language Models for Healthcare: From Data, Technology, and Applications to Accountability and Ethics [J]. Information Fusion, 2025, 118: 102963.
 
+
+
 ## 2024
+
 - J. Xu, ***Kai He***, M. Lan, et al. Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification [C]. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 2024: 2671–2681.
 
 - Y. Li, X. Ma, X. Zhou, ***Kai He***， et al. Integrating K+ Entities into Coreference Resolution on Biomedical Texts [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024.
@@ -161,8 +167,10 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - R. Mao, Q. Liu, ***Kai He***, et al. The biases of pre-trained language models: An empirical study on prompt-based sentiment analysis and emotion detection [J]. IEEE Transactions on Affective Computing, 2022, 14(3): 1743–1753.
 
-  
+
+
 ## 2022 and Before
+
 - ***Kai He***, Rui Mao, T. Gong, et al. JCBIE: A joint continual learning neural network for biomedical information extraction [J]. BMC Bioinformatics, 2022, 23(1): 549.
 
 - B. Mao, C. Jia, Y. Huang, et al. Uncertainty-guided mutual consistency training for semi-supervised biomedical relation extraction [C]. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022: 2318–2325.
@@ -193,9 +201,9 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - Zhihui Chen, ***Kai He***, Qingyuan Lei, Bin Pu, Jian Zhang, Yuling Xu, Mengling Feng. MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning [Preprint]. arXiv:2603.18577, 2026.
 
-- Qika Lin, Luwei Xiao, Bin Pu, Kaize Shi, Yanrui Du, Jiaxing Xu, ***Kai He***, Shuai Zhao, Erik Cambria, Swapnil Mishra, Mengling Feng. A Survey of LLM Reasoning in Healthcare and Medicine: From Individual Modeling to Collaborative Agents [Preprint]. TechRxiv, 2026.
-
 - Yanrui Du, Yibo Gao, Sendong Zhao, Jiayun Li, Haochun Wang, Qika Lin, ***Kai He***, Bing Qin, Mengling Feng. From Latent Signals to Reflection Behavior: Tracing Meta-Cognitive Activation Trajectory in R1-Style LLMs [Preprint]. arXiv:2602.01999, 2026.
+
+- Qika Lin, Luwei Xiao, Bin Pu, Kaize Shi, Yanrui Du, Jiaxing Xu, ***Kai He***, Shuai Zhao, Erik Cambria, Swapnil Mishra, Mengling Feng. A Survey of LLM Reasoning in Healthcare and Medicine: From Individual Modeling to Collaborative Agents [Preprint]. TechRxiv, 2026.
 
 - Jian Zhang, Yu He, Zhiyuan Wang, Zhangqi Wang, ***Kai He***, Fangzhi Xu, Qika Lin, Jun Liu. A<sup>3</sup>-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation [Preprint]. arXiv:2601.09274, 2026.
 
@@ -214,6 +222,7 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 - Zihao Huang, Rui Mao, Xiaobao Wu, ***Kai He***, Xulang Zhang, Erik Cambria. Fundamental Algorithms for Retrieval-Augmented Generation: A Survey [Preprint]. 2025.
 
 - Yucheng Ruan, Xiang Lan, Jingying Ma, Yizhi Dong, ***Kai He***, Mengling Feng. Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution [Preprint]. arXiv:2408.10548, 2024.
+<!-- AUTO_PUBLICATIONS_END -->
 
  
 <span class='anchor' id='-Honors-and-Awards'></span>
