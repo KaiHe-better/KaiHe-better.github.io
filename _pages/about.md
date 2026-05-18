@@ -83,9 +83,33 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - Jian Zhang, Zhangqi Wang, Haiping Zhu, Kangda Cheng, ***Kai He***, Bo Li, Qika Lin, Jun Liu, Erik Cambria. MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 16307–16315.
 
+- BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification [J]. Google Scholar, 2026.
+
+- Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction [J]. Google Scholar, 2026.
+
+- -Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation [J]. Google Scholar, 2026.
+
 
 
 ## 2025
+
+- Towards Unified Neurosymbolic Reasoning on Knowledge Graphs [J]. Google Scholar, 2025.
+
+- Exploring cognitive difference in poetry collection via large language models and metaphors: A case study of the book of songs [J]. Google Scholar, 2025.
+
+- DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction [J]. Google Scholar, 2025.
+
+- Bridging whole slide images and large language model for slide-level question answering [J]. Google Scholar, 2025.
+
+- Beyond Prediction: Reinforcement Learning as the Defining Leap in Healthcare AI [J]. Google Scholar, 2025.
+
+- Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint [J]. Google Scholar, 2025.
+
+- ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering [J]. Google Scholar, 2025.
+
+- A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models [J]. Google Scholar, 2025.
+
+- A foundation model for chest x-ray interpretation with grounded reasoning via online reinforcement learning [J]. Google Scholar, 2025.
 
 - Zeyu Gao, Anyu Mao, Yuxing Dong, Hannah Clayton, Jialun Wu, Jiashuai Liu, Chunbao Wang, ***Kai He***, Tieliang Gong, Chen Li, Mireia Crispin-Ortuzar. SMMILe Enables Accurate Spatial Quantification in Digital Pathology Using Multiple-Instance Learning [J]. Nature Cancer, 2025, 6: 2025–2041.
 
@@ -141,6 +165,20 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 ## 2024
 
+- PROMISE: A pre-trained knowledge-infused multimodal representation learning framework for medication recommendation [J]. Google Scholar, 2024.
+
+- MetaPro 2.0: Computational metaphor processing on the effectiveness of anomalous language modeling [J]. Google Scholar, 2024.
+
+- Language modeling on tabular data: A survey of foundations, techniques and evolution [J]. Google Scholar, 2024.
+
+- Integrating K+ entities into coreference resolution on biomedical texts [J]. Google Scholar, 2024.
+
+- Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification [J]. Google Scholar, 2024.
+
+- Accurate spatial quantification in computational pathology with multiple instance learning [J]. Google Scholar, 2024.
+
+- A survey on semantic processing techniques [J]. Google Scholar, 2024.
+
 - J. Xu, ***Kai He***, M. Lan, et al. Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification [C]. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 2024: 2671–2681.
 
 - Y. Li, X. Ma, X. Zhou, ***Kai He***， et al. Integrating K+ Entities into Coreference Resolution on Biomedical Texts [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024.
@@ -154,6 +192,18 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 
 ## 2023
+
+- Virtual prompt pre-training for prototype-based few-shot relation extraction [J]. Google Scholar, 2023.
+
+- The biases of pre-trained language models: An empirical study on prompt-based sentiment analysis and emotion detection [J]. Google Scholar, 2023.
+
+- Template-free prompting for few-shot named entity recognition via semantic-enhanced contrastive learning [J]. Google Scholar, 2023.
+
+- Neuro-symbolic sentiment analysis with dynamic word sense disambiguation [J]. Google Scholar, 2023.
+
+- MetaPro Online: A computational metaphor processing online system [J]. Google Scholar, 2023.
+
+- MEGACare: Knowledge-guided multi-view hypergraph predictive framework for healthcare [J]. Google Scholar, 2023.
 
 - X. Zhang, R. Mao, ***Kai He***, et al. Neuro-symbolic sentiment analysis with dynamic word sense disambiguation [C]. Findings of the Association for Computational Linguistics: EMNLP, 2023: 8772–8783.
 
@@ -170,6 +220,28 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 
 ## 2022 and Before
+
+- Understanding the patient perspective of epilepsy treatment through text mining of online patient support groups [J]. Google Scholar, 2019.
+
+- Uncertainty-guided mutual consistency training for semi-supervised biomedical relation extraction [J]. Google Scholar, 2022.
+
+- Meta-based self-training and re-weighting for aspect-based sentiment analysis [J]. Google Scholar, 2022.
+
+- Knowledge enhanced lstm for coreference resolution on biomedical texts [J]. Google Scholar, 2021.
+
+- Knowledge enhanced coreference resolution via gated attention [J]. Google Scholar, 2022.
+
+- JCBIE: A joint continual learning neural network for biomedical information extraction [J]. Google Scholar, 2022.
+
+- Implementation of National Health Informatization in China: survey about the status quo [J]. Google Scholar, 2019.
+
+- Extracting kinship from obituary to enhance electronic health records for genetic research [J]. Google Scholar, 2019.
+
+- Copner: Contrastive learning with prompt guiding for few-shot named entity recognition [J]. Google Scholar, 2022.
+
+- Construction of genealogical knowledge graphs from obituaries: Multitask neural network extraction system [J]. Google Scholar, 2021.
+
+- Bert-based meta-learning approach with looking back for sentiment analysis of literary book reviews [J]. Google Scholar, 2021.
 
 - ***Kai He***, Rui Mao, T. Gong, et al. JCBIE: A joint continual learning neural network for biomedical information extraction [J]. BMC Bioinformatics, 2022, 23(1): 549.
 
@@ -207,21 +279,9 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - Jian Zhang, Yu He, Zhiyuan Wang, Zhangqi Wang, ***Kai He***, Fangzhi Xu, Qika Lin, Jun Liu. A<sup>3</sup>-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation [Preprint]. arXiv:2601.09274, 2026.
 
-- Yucheng Xing, Ling Huang, Jingying Ma, Ruping Hong, Jiangdong Qiu, Pei Liu, ***Kai He***, Huazhu Fu, Mengling Feng. DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction [Preprint]. arXiv:2510.00053, 2025.
-
-- Yanrui Du, Fenglei Fan, Sendong Zhao, Jiawei Cao, Qika Lin, ***Kai He***, Ting Liu, Bing Qin, Mengling Feng. Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint [Preprint]. arXiv:2509.06795, 2025.
-
-- Qika Lin, Yifan Zhu, Bin Pu, Ling Huang, Haoran Luo, Jingying Ma, Zhen Peng, Tianzhe Zhao, Fangzhi Xu, Jian Zhang, ***Kai He***, Zhonghong Ou, Swapnil Mishra, Mengling Feng. A Foundation Model for Chest X-Ray Interpretation with Grounded Reasoning via Online Reinforcement Learning [Preprint]. arXiv:2509.03906, 2025.
-
 - Dilruk Perera, Gousia Habib, Qianyi Xu, Daniel J. Tan, ***Kai He***, Erik Cambria, Mengling Feng. Beyond Prediction: Reinforcement Learning as the Defining Leap in Healthcare AI [Preprint]. arXiv:2508.21101, 2025.
 
-- Qika Lin, Fangzhi Xu, Hao Lu, ***Kai He***, Rui Mao, Jun Liu, Erik Cambria, Mengling Feng. Towards Unified Neurosymbolic Reasoning on Knowledge Graphs [Preprint]. arXiv:2507.03697, 2025.
-
-- Qika Lin, Zhen Peng, Kaize Shi, ***Kai He***, Yiming Xu, Erik Cambria, Mengling Feng. A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models [Preprint]. arXiv:2502.00681, 2025.
-
 - Zihao Huang, Rui Mao, Xiaobao Wu, ***Kai He***, Xulang Zhang, Erik Cambria. Fundamental Algorithms for Retrieval-Augmented Generation: A Survey [Preprint]. 2025.
-
-- Yucheng Ruan, Xiang Lan, Jingying Ma, Yizhi Dong, ***Kai He***, Mengling Feng. Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution [Preprint]. arXiv:2408.10548, 2024.
 <!-- AUTO_PUBLICATIONS_END -->
 
  
