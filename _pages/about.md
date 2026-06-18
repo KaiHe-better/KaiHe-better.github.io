@@ -83,6 +83,10 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - Jian Zhang, Zhangqi Wang, Haiping Zhu, Kangda Cheng, ***Kai He***, Bo Li, Qika Lin, Jun Liu, Erik Cambria. MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 16307–16315.
 
+- Unraveling the Evolution of Public Cognition of COVID-19: A Case Study of Metaphorical Narratives in US Twitter Discussions [J]. Google Scholar, 2026.
+
+- Aligned Information Bottleneck for Multimodal Social Sentiment Analysis [J]. Google Scholar, 2026.
+
 - BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification [J]. Google Scholar, 2026.
 
 - Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction [J]. Google Scholar, 2026.
@@ -99,13 +103,7 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction [J]. Google Scholar, 2025.
 
-- Bridging whole slide images and large language model for slide-level question answering [J]. Google Scholar, 2025.
-
-- Beyond Prediction: Reinforcement Learning as the Defining Leap in Healthcare AI [J]. Google Scholar, 2025.
-
 - Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint [J]. Google Scholar, 2025.
-
-- ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering [J]. Google Scholar, 2025.
 
 - A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models [J]. Google Scholar, 2025.
 
@@ -165,19 +163,9 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 ## 2024
 
-- PROMISE: A pre-trained knowledge-infused multimodal representation learning framework for medication recommendation [J]. Google Scholar, 2024.
-
-- MetaPro 2.0: Computational metaphor processing on the effectiveness of anomalous language modeling [J]. Google Scholar, 2024.
-
 - Language modeling on tabular data: A survey of foundations, techniques and evolution [J]. Google Scholar, 2024.
 
-- Integrating K+ entities into coreference resolution on biomedical texts [J]. Google Scholar, 2024.
-
-- Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification [J]. Google Scholar, 2024.
-
 - Accurate spatial quantification in computational pathology with multiple instance learning [J]. Google Scholar, 2024.
-
-- A survey on semantic processing techniques [J]. Google Scholar, 2024.
 
 - J. Xu, ***Kai He***, M. Lan, et al. Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification [C]. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 2024: 2671–2681.
 
@@ -192,18 +180,6 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 
 ## 2023
-
-- Virtual prompt pre-training for prototype-based few-shot relation extraction [J]. Google Scholar, 2023.
-
-- The biases of pre-trained language models: An empirical study on prompt-based sentiment analysis and emotion detection [J]. Google Scholar, 2023.
-
-- Template-free prompting for few-shot named entity recognition via semantic-enhanced contrastive learning [J]. Google Scholar, 2023.
-
-- Neuro-symbolic sentiment analysis with dynamic word sense disambiguation [J]. Google Scholar, 2023.
-
-- MetaPro Online: A computational metaphor processing online system [J]. Google Scholar, 2023.
-
-- MEGACare: Knowledge-guided multi-view hypergraph predictive framework for healthcare [J]. Google Scholar, 2023.
 
 - X. Zhang, R. Mao, ***Kai He***, et al. Neuro-symbolic sentiment analysis with dynamic word sense disambiguation [C]. Findings of the Association for Computational Linguistics: EMNLP, 2023: 8772–8783.
 
@@ -221,27 +197,7 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 ## 2022 and Before
 
-- Understanding the patient perspective of epilepsy treatment through text mining of online patient support groups [J]. Google Scholar, 2019.
-
-- Uncertainty-guided mutual consistency training for semi-supervised biomedical relation extraction [J]. Google Scholar, 2022.
-
-- Meta-based self-training and re-weighting for aspect-based sentiment analysis [J]. Google Scholar, 2022.
-
-- Knowledge enhanced lstm for coreference resolution on biomedical texts [J]. Google Scholar, 2021.
-
-- Knowledge enhanced coreference resolution via gated attention [J]. Google Scholar, 2022.
-
-- JCBIE: A joint continual learning neural network for biomedical information extraction [J]. Google Scholar, 2022.
-
-- Implementation of National Health Informatization in China: survey about the status quo [J]. Google Scholar, 2019.
-
 - Extracting kinship from obituary to enhance electronic health records for genetic research [J]. Google Scholar, 2019.
-
-- Copner: Contrastive learning with prompt guiding for few-shot named entity recognition [J]. Google Scholar, 2022.
-
-- Construction of genealogical knowledge graphs from obituaries: Multitask neural network extraction system [J]. Google Scholar, 2021.
-
-- Bert-based meta-learning approach with looking back for sentiment analysis of literary book reviews [J]. Google Scholar, 2021.
 
 - ***Kai He***, Rui Mao, T. Gong, et al. JCBIE: A joint continual learning neural network for biomedical information extraction [J]. BMC Bioinformatics, 2022, 23(1): 549.
 

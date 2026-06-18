@@ -117,10 +117,14 @@ def parse_title_from_markdown(markdown: str) -> str:
     if text.startswith("- "):
         text = text[2:]
     # Existing entries follow: Authors. Title [J/C/Preprint]. Venue...
-    parts = text.split(". ", 1)
-    rest = parts[1] if len(parts) == 2 else text
-    title = re.split(r"\s+\[(?:J|C|Preprint)\]\.?", rest, maxsplit=1)[0]
-    return title.strip()
+    # Author lists may themselves contain periods ("J. Wu"), so take the text
+    # immediately before the publication marker and then keep only the last
+    # sentence-like segment as the title.
+    marker = re.search(r"\s+\[(?:J|C|Preprint)\]\.?", text)
+    prefix = text[: marker.start()].strip() if marker else text
+    if ". " in prefix:
+        prefix = prefix.rsplit(". ", 1)[-1]
+    return prefix.strip()
 
 
 def parse_existing_publications(about_text: str) -> dict[str, Entry]:
@@ -187,6 +191,8 @@ def entry_from_scholar(pub: dict[str, Any]) -> Entry | None:
     title = str(bib.get("title") or pub.get("title") or "").strip()
     if not title:
         return None
+    if re.match(r"^[^A-Za-z0-9]+", title):
+        return None
 
     year = extract_year(str(bib.get("pub_year") or bib.get("year") or ""))
     citation = str(
@@ -228,6 +234,10 @@ def emphasize_kai_he(authors: str) -> str:
     return authors
 
 
+def is_low_fidelity_entry(entry: Entry) -> bool:
+    return "Google Scholar" in entry.markdown
+
+
 def merge_entries(
     existing: dict[str, Entry],
     scholar_pubs: list[dict[str, Any]],
@@ -254,7 +264,11 @@ def merge_entries(
         if not current:
             merged[key] = entry
             continue
-        if current.section == "preprint" and entry.section == "publication":
+        if (
+            current.section == "preprint"
+            and entry.section == "publication"
+            and not is_low_fidelity_entry(entry)
+        ):
             merged[key] = entry
 
     publication_keys = {key for key, entry in merged.items() if entry.section == "publication"}
