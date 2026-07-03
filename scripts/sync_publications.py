@@ -85,10 +85,11 @@ def load_json(path: Path) -> dict[str, Any]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def load_overrides(path: Path) -> tuple[dict[str, Entry], dict[str, str]]:
+def load_overrides(path: Path) -> tuple[dict[str, Entry], dict[str, str], set[str]]:
     data = load_json(path)
     entries: dict[str, Entry] = {}
     aliases: dict[str, str] = {}
+    suppressed: set[str] = set()
 
     for item in data.get("entries", []):
         title = item["title"].strip()
@@ -104,7 +105,10 @@ def load_overrides(path: Path) -> tuple[dict[str, Entry], dict[str, str]]:
         for alias in item.get("aliases", []):
             aliases[normalize_title(alias)] = entry.key
 
-    return entries, aliases
+    for title in data.get("suppressed_titles", []):
+        suppressed.add(normalize_title(title))
+
+    return entries, aliases, suppressed
 
 
 def canonical_key(title: str, aliases: dict[str, str]) -> str:
@@ -243,22 +247,29 @@ def merge_entries(
     scholar_pubs: list[dict[str, Any]],
     overrides: dict[str, Entry],
     aliases: dict[str, str],
+    suppressed: set[str],
 ) -> dict[str, Entry]:
     merged: dict[str, Entry] = {}
 
     for key, entry in existing.items():
-        merged[aliases.get(key, key)] = entry
+        canonical = aliases.get(key, key)
+        if canonical not in suppressed:
+            merged[canonical] = entry
 
     # Overrides are authoritative and can also seed entries before Scholar has
     # enough detail.
     for key, entry in overrides.items():
-        merged[aliases.get(key, key)] = entry
+        canonical = aliases.get(key, key)
+        if canonical not in suppressed:
+            merged[canonical] = entry
 
     for pub in scholar_pubs:
         generated = entry_from_scholar(pub)
         if not generated:
             continue
         key = canonical_key(generated.title, aliases)
+        if key in suppressed:
+            continue
         entry = overrides.get(key, generated)
         current = merged.get(key)
         if not current:
@@ -365,10 +376,10 @@ def main() -> int:
     about_text = args.about.read_text(encoding="utf-8")
     about_text = ensure_markers(about_text)
     existing = parse_existing_publications(about_text)
-    overrides, aliases = load_overrides(args.overrides)
+    overrides, aliases, suppressed = load_overrides(args.overrides)
     scholar_pubs = scholar_publications(args.scholar_json)
 
-    merged = merge_entries(existing, scholar_pubs, overrides, aliases)
+    merged = merge_entries(existing, scholar_pubs, overrides, aliases, suppressed)
     about_text = replace_region(about_text, NEWS_START, NEWS_END, render_news(merged, args.news_year))
     about_text = replace_region(about_text, PUBS_START, PUBS_END, render_publications(merged))
 

@@ -1,5 +1,50 @@
 {
+  "suppressed_titles": [
+    "Accurate spatial quantification in computational pathology with multiple instance learning"
+  ],
   "entries": [
+    {
+      "title": "Unraveling the Evolution of Public Cognition of COVID-19: A Case Study of Metaphorical Narratives in US Twitter Discussions",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-06",
+      "markdown": "- R. Mao, T. Yue, ***Kai He***, Q. Liu, E. Cambria. Unraveling the Evolution of Public Cognition of COVID-19: A Case Study of Metaphorical Narratives in US Twitter Discussions [J]. Cognitive Computation, 2026, 18(1): 54."
+    },
+    {
+      "title": "Curriculum Learning based Hierarchical Scoring and Analysis Framework for Question Answering Task Evaluation",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-06",
+      "markdown": "- Q. Wu, T. Yue, J. Liang, Z. Li, ***Kai He***, S. Zhao, D. Zhao. Curriculum Learning based Hierarchical Scoring and Analysis Framework for Question Answering Task Evaluation [C]. Findings of the Association for Computational Linguistics: ACL 2026, 6672-6699."
+    },
+    {
+      "title": "MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-06",
+      "markdown": "- Z. Chen, ***Kai He***, Q. Lei, B. Pu, J. Zhang, Y. Xu, M. Feng. MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning [C]. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026."
+    },
+    {
+      "title": "Aligned Information Bottleneck for Multimodal Social Sentiment Analysis",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-06",
+      "markdown": "- R. Zou, J. Zhang, A. Ren, W. Wang, Z. Gao, J. Wu, ***Kai He***. Aligned Information Bottleneck for Multimodal Social Sentiment Analysis [J]. IEEE Transactions on Computational Social Systems, 2026."
+    },
+    {
+      "title": "BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-06",
+      "markdown": "- J. Xu, ***Kai He***, Y. Tang, W. Li, M. Lan, Y. Xun, Q. Lin, P. Ran, Y. Ke, M. Feng. BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification [J]. IEEE Transactions on Medical Imaging, 2026."
+    },
+    {
+      "title": "Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction",
+      "section": "preprint",
+      "year": 2026,
+      "sort_date": "2026-05",
+      "markdown": "- Y. Ruan, L. Huang, Q. Lin, ***Kai He***, M. Feng. Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction [Preprint]. arXiv:2605.05121, 2026."
+    },
     {
       "title": "MTLQ-ViT: Multi-Granularity Tail-Enhanced Logarithmic Quantization for Vision Transformers",
       "section": "publication",
@@ -17,14 +62,6 @@
       "news": "- *2026.03*: &nbsp;🎉🎉 Our paper on multi-view brain network foundation model is released as an arXiv preprint. Congrats to Dr. Xu."
     },
     {
-      "title": "MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning",
-      "section": "preprint",
-      "year": 2026,
-      "sort_date": "2026-03",
-      "markdown": "- Zhihui Chen, ***Kai He***, Qingyuan Lei, Bin Pu, Jian Zhang, Yuling Xu, Mengling Feng. MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning [Preprint]. arXiv:2603.18577, 2026.",
-      "news": "- *2026.03*: &nbsp;🎉🎉 Our paper on interpretable medical deepfake detection is released as an arXiv preprint."
-    },
-    {
       "title": "Recovering Coherent Affective Patterns: Addressing Modality Missing in Multimodal Sentiment Analysis",
       "section": "publication",
       "year": 2026,
@@ -37,7 +74,7 @@
       "section": "preprint",
       "year": 2026,
       "sort_date": "2026-02",
-      "markdown": "- Qika Lin, Luwei Xiao, Bin Pu, Kaize Shi, Yanrui Du, Jiaxing Xu, ***Kai He***, Shuai Zhao, Erik Cambria, Swapnil Mishra, Mengling Feng. A Survey of LLM Reasoning in Healthcare and Medicine: From Individual Modeling to Collaborative Agents [Preprint]. TechRxiv, 2026.",
+      "markdown": "- Qika Lin, Luwei Xiao, Bin Pu, Kaize Shi, Yanrui Du, Jiaxing Xu, ***Kai He***, Shuai Zhao, Erik Cambria, Swapnil Mishra, Mengling Feng. A Survey of LLM Reasoning in Healthcare and Medicine: From Individual Modeling to Collaborative Agents [Preprint]. TechRxiv 2026 (0216).",
       "news": "- *2026.02*: &nbsp;🎉🎉 Our survey paper on LLM reasoning in healthcare and medicine is released as a TechRxiv preprint."
     },
     {
@@ -53,7 +90,8 @@
       "aliases": [
         "A<sup>3</sup>-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation",
         "A^3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation",
-        "A³-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation"
+        "A³-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation",
+        "-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation"
       ],
       "section": "preprint",
       "year": 2026,
@@ -68,6 +106,75 @@
       "sort_date": "2026-01",
       "markdown": "- Jian Zhang, Zhangqi Wang, Haiping Zhu, Kangda Cheng, ***Kai He***, Bo Li, Qika Lin, Jun Liu, Erik Cambria. MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 16307–16315.",
       "news": "- *2026.01*: &nbsp;🎉🎉 Our paper on multi-agent adaptive reasoning for automated prompt optimization is accepted by AAAI 2026."
+    },
+    {
+      "title": "DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction",
+      "section": "preprint",
+      "year": 2025,
+      "sort_date": "2025-10",
+      "markdown": "- Y. Xing, L. Huang, J. Ma, R. Hong, J. Qiu, P. Liu, ***Kai He***, H. Fu, M. Feng. DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction [Preprint]. arXiv:2510.00053, 2025."
+    },
+    {
+      "title": "Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint",
+      "section": "preprint",
+      "year": 2025,
+      "sort_date": "2025-09",
+      "markdown": "- Y. Du, F. Fan, S. Zhao, J. Cao, Q. Lin, ***Kai He***, T. Liu, B. Qin, M. Feng. Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint [Preprint]. arXiv:2509.06795, 2025."
+    },
+    {
+      "title": "A foundation model for chest x-ray interpretation with grounded reasoning via online reinforcement learning",
+      "section": "preprint",
+      "year": 2025,
+      "sort_date": "2025-09",
+      "markdown": "- A foundation model for chest x-ray interpretation with grounded reasoning via online reinforcement learning [Preprint]. arXiv:2509.03906, 2025."
+    },
+    {
+      "title": "Towards Unified Neurosymbolic Reasoning on Knowledge Graphs",
+      "section": "preprint",
+      "year": 2025,
+      "sort_date": "2025-07",
+      "markdown": "- Q. Lin, F. Xu, H. Lu, ***Kai He***, R. Mao, J. Liu, E. Cambria, M. Feng. Towards Unified Neurosymbolic Reasoning on Knowledge Graphs [Preprint]. arXiv:2507.03697, 2025."
+    },
+    {
+      "title": "ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering",
+      "aliases": [
+        "ALPaCA: Adapting Llama for Pathology Context Analysis to Enable Slide-Level Question Answering"
+      ],
+      "section": "preprint",
+      "year": 2025,
+      "sort_date": "2025-04",
+      "markdown": "- Z. Gao, ***Kai He***, W. Su, I. P. Machado, W. McGough, M. Jimenez-Linan, B. Rous, et al. ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering [Preprint]. medRxiv, 2025.04.22.25326190."
+    },
+    {
+      "title": "A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models",
+      "section": "preprint",
+      "year": 2025,
+      "sort_date": "2025-02",
+      "markdown": "- Q. Lin, Z. Peng, K. Shi, ***Kai He***, Y. Xu, J. Zhang, E. Cambria, M. Feng. A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models [Preprint]. arXiv:2502.00681, 2025."
+    },
+    {
+      "title": "Exploring cognitive difference in poetry collection via large language models and metaphors: A case study of the book of songs",
+      "aliases": [
+        "Exploring Cognitive Difference in Poetry Collection via: A Case Study of the Book of Songs"
+      ],
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-01",
+      "markdown": "- Hui Bao, ***Kai He***, Yige Wang, Zeyu Gao. Exploring cognitive difference in poetry collection via large language models and metaphors: A case study of the book of songs [J]. Cognitive Computation, 2025, 17(3): 106."
+    },
+    {
+      "title": "Language modeling on tabular data: A survey of foundations, techniques and evolution",
+      "section": "preprint",
+      "year": 2024,
+      "sort_date": "2024-08",
+      "markdown": "- Y. Ruan, X. Lan, J. Ma, Y. Dong, ***Kai He***, M. Feng. Language modeling on tabular data: A survey of foundations, techniques and evolution [Preprint]. arXiv:2408.10548, 2024."
+    },
+    {
+      "title": "Extracting kinship from obituary to enhance electronic health records for genetic research",
+      "section": "publication",
+      "year": 2019,
+      "sort_date": "2019-01",
+      "markdown": "- ***Kai He***, J. Wu, X. Ma, et al. Extracting Kinship from Obituaries to Enhance Electronic Health Records for Genetic Research [C]. Proceedings of the Fourth Social Media Mining for Health Applications (SMM4H) Workshop & Shared Task, 2019: 1–10."
     }
   ]
 }

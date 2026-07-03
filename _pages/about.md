@@ -34,7 +34,6 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 <!-- AUTO_NEWS_START -->
 - *2026.04*: &nbsp;🎉🎉 Our paper on vision transformer quantization is accepted by Pattern Recognition. Congrats to Dr. Kang.
 - *2026.03*: &nbsp;🎉🎉 Our paper on multi-view brain network foundation model is released as an arXiv preprint. Congrats to Dr. Xu.
-- *2026.03*: &nbsp;🎉🎉 Our paper on interpretable medical deepfake detection is released as an arXiv preprint.
 - *2026.02*: &nbsp;🎉🎉 Our paper on recovering coherent affective patterns is accepted by AAAI 2026.
 - *2026.02*: &nbsp;🎉🎉 Our paper on meta-cognitive activation trajectory in R1-style LLMs is released as an arXiv preprint.
 - *2026.02*: &nbsp;🎉🎉 Our survey paper on LLM reasoning in healthcare and medicine is released as a TechRxiv preprint.
@@ -77,37 +76,27 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 <!-- AUTO_PUBLICATIONS_START -->
 ## 2026
 
+- R. Mao, T. Yue, ***Kai He***, Q. Liu, E. Cambria. Unraveling the Evolution of Public Cognition of COVID-19: A Case Study of Metaphorical Narratives in US Twitter Discussions [J]. Cognitive Computation, 2026, 18(1): 54.
+
+- Z. Chen, ***Kai He***, Q. Lei, B. Pu, J. Zhang, Y. Xu, M. Feng. MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning [C]. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026.
+
+- Q. Wu, T. Yue, J. Liang, Z. Li, ***Kai He***, S. Zhao, D. Zhao. Curriculum Learning based Hierarchical Scoring and Analysis Framework for Question Answering Task Evaluation [C]. Findings of the Association for Computational Linguistics: ACL 2026, 6672-6699.
+
+- J. Xu, ***Kai He***, Y. Tang, W. Li, M. Lan, Y. Xun, Q. Lin, P. Ran, Y. Ke, M. Feng. BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification [J]. IEEE Transactions on Medical Imaging, 2026.
+
+- R. Zou, J. Zhang, A. Ren, W. Wang, Z. Gao, J. Wu, ***Kai He***. Aligned Information Bottleneck for Multimodal Social Sentiment Analysis [J]. IEEE Transactions on Computational Social Systems, 2026.
+
 - Yan Kang, Shouhao Xu, Qika Lin, ***Kai He***, Zhan Gao, Zhuangzhuang Chen, Bin Pu. MTLQ-ViT: Multi-Granularity Tail-Enhanced Logarithmic Quantization for Vision Transformers [J]. Pattern Recognition, 2026: 113769.
 
 - Huiting Huang, Tieliang Gong, ***Kai He***, Wen Wen, Weizhan Zhang, Mengling Feng. Recovering Coherent Affective Patterns: Addressing Modality Missing in Multimodal Sentiment Analysis [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 21957–21965.
 
 - Jian Zhang, Zhangqi Wang, Haiping Zhu, Kangda Cheng, ***Kai He***, Bo Li, Qika Lin, Jun Liu, Erik Cambria. MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 16307–16315.
 
-- Unraveling the Evolution of Public Cognition of COVID-19: A Case Study of Metaphorical Narratives in US Twitter Discussions [J]. Google Scholar, 2026.
-
-- Aligned Information Bottleneck for Multimodal Social Sentiment Analysis [J]. Google Scholar, 2026.
-
-- BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification [J]. Google Scholar, 2026.
-
-- Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction [J]. Google Scholar, 2026.
-
-- -Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation [J]. Google Scholar, 2026.
-
 
 
 ## 2025
 
-- Towards Unified Neurosymbolic Reasoning on Knowledge Graphs [J]. Google Scholar, 2025.
-
-- Exploring cognitive difference in poetry collection via large language models and metaphors: A case study of the book of songs [J]. Google Scholar, 2025.
-
-- DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction [J]. Google Scholar, 2025.
-
-- Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint [J]. Google Scholar, 2025.
-
-- A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models [J]. Google Scholar, 2025.
-
-- A foundation model for chest x-ray interpretation with grounded reasoning via online reinforcement learning [J]. Google Scholar, 2025.
+- Hui Bao, ***Kai He***, Yige Wang, Zeyu Gao. Exploring cognitive difference in poetry collection via large language models and metaphors: A case study of the book of songs [J]. Cognitive Computation, 2025, 17(3): 106.
 
 - Zeyu Gao, Anyu Mao, Yuxing Dong, Hannah Clayton, Jialun Wu, Jiashuai Liu, Chunbao Wang, ***Kai He***, Tieliang Gong, Chen Li, Mireia Crispin-Ortuzar. SMMILe Enables Accurate Spatial Quantification in Digital Pathology Using Multiple-Instance Learning [J]. Nature Cancer, 2025, 6: 2025–2041.
 
@@ -127,8 +116,6 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - ***Kai He***, Qika Lin, Hao Fei, Eng Siong Chng, Dehan Hong, Marcus Eng Hock Ong, Mengling Feng. InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care [C]. Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, Accepted.
 
-- Zeyu Gao, ***Kai He***, Weiheng Su, Ines P. Machado, William McGough, Mercedes Jimenez-Linan, Brian Rous, Chunbao Wang, Chengzu Li, Xiaobo Pang, Tieliang Gong, Ming Y. Lu, Faisal Mahmood, Mengling Feng, Li Chen, Mireia Crispin-Ortuzar. ALPaCA: Adapting Llama for Pathology Context Analysis to Enable Slide-Level Question Answering [J]. Nature Cancer, 2025, Accepted.
-
 - Zhan Gao, Ling Huang, Qika Lin, Bin Pu, ***Kai He***, Mengling Feng, Kenli Li. Domain-Continual Learning for Multi-Center Anatomical Detection via Prompt-Enhanced and Densely-Fused MedSAM [J]. Information Fusion, 2025: 103614.
 
 - Zhihui Chen, ***Kai He***, Yucheng Huang, Yunxiao Zhu, Mengling Feng. DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains [C]. Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, Accepted.
@@ -147,8 +134,6 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - Jiaxing Xu, ***Kai He***, Yue Tang, Wei Li, Mengcheng Lan, Xia Dong, Yiping Ke, Mengling Feng. BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification [C]. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2025, Accepted.
 
-- Hui Bao, ***Kai He***, Yige Wang, Zeyu Gao. Exploring Cognitive Difference in Poetry Collection via: A Case Study of the Book of Songs [J]. Cognitive Computation, 2025, 17(3): 106.
-
 - Zeyu Gao, ***Kai He***, Weiheng Su, Ines P. Machado, William McGough, Mercedes Jimenez-Linan, Brian Rous, Chunbao Wang, Chengzu Li, Xiaobo Pang, Tieliang Gong, Ming Y. Lu, Faisal Mahmood, Mengling Feng, Li Chen, Mireia Crispin-Ortuzar. Bridging Whole Slide Images and Large Language Model for Slide-Level Question Answering [J]. Cancer Research, 2025, 85(8_Supplement_1): 2438–2438.
 
 - Qika Lin, ***Kai He***, Yifan Zhu, Fangzhi Xu, Erik Cambria, Mengling Feng. Cross-Modal Knowledge Diffusion-Based Generation for Difference-Aware Medical VQA [J]. IEEE Transactions on Image Processing, 2025: 2421–2434.
@@ -162,10 +147,6 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 
 ## 2024
-
-- Language modeling on tabular data: A survey of foundations, techniques and evolution [J]. Google Scholar, 2024.
-
-- Accurate spatial quantification in computational pathology with multiple instance learning [J]. Google Scholar, 2024.
 
 - J. Xu, ***Kai He***, M. Lan, et al. Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification [C]. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 2024: 2671–2681.
 
@@ -197,7 +178,7 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 ## 2022 and Before
 
-- Extracting kinship from obituary to enhance electronic health records for genetic research [J]. Google Scholar, 2019.
+- ***Kai He***, J. Wu, X. Ma, et al. Extracting Kinship from Obituaries to Enhance Electronic Health Records for Genetic Research [C]. Proceedings of the Fourth Social Media Mining for Health Applications (SMM4H) Workshop & Shared Task, 2019: 1–10.
 
 - ***Kai He***, Rui Mao, T. Gong, et al. JCBIE: A joint continual learning neural network for biomedical information extraction [J]. BMC Bioinformatics, 2022, 23(1): 549.
 
@@ -225,15 +206,29 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 ## Preprints
 
-- Jiaxing Xu, Jingying Ma, Xin Lin, Yuxiao Liu, ***Kai He***, Qika Lin, Yiping Ke, Yang Li, Dinggang Shen, Mengling Feng. Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases [Preprint]. arXiv:2603.20348, 2026.
+- Y. Ruan, L. Huang, Q. Lin, ***Kai He***, M. Feng. Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction [Preprint]. arXiv:2605.05121, 2026.
 
-- Zhihui Chen, ***Kai He***, Qingyuan Lei, Bin Pu, Jian Zhang, Yuling Xu, Mengling Feng. MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning [Preprint]. arXiv:2603.18577, 2026.
+- Jiaxing Xu, Jingying Ma, Xin Lin, Yuxiao Liu, ***Kai He***, Qika Lin, Yiping Ke, Yang Li, Dinggang Shen, Mengling Feng. Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases [Preprint]. arXiv:2603.20348, 2026.
 
 - Yanrui Du, Yibo Gao, Sendong Zhao, Jiayun Li, Haochun Wang, Qika Lin, ***Kai He***, Bing Qin, Mengling Feng. From Latent Signals to Reflection Behavior: Tracing Meta-Cognitive Activation Trajectory in R1-Style LLMs [Preprint]. arXiv:2602.01999, 2026.
 
-- Qika Lin, Luwei Xiao, Bin Pu, Kaize Shi, Yanrui Du, Jiaxing Xu, ***Kai He***, Shuai Zhao, Erik Cambria, Swapnil Mishra, Mengling Feng. A Survey of LLM Reasoning in Healthcare and Medicine: From Individual Modeling to Collaborative Agents [Preprint]. TechRxiv, 2026.
+- Qika Lin, Luwei Xiao, Bin Pu, Kaize Shi, Yanrui Du, Jiaxing Xu, ***Kai He***, Shuai Zhao, Erik Cambria, Swapnil Mishra, Mengling Feng. A Survey of LLM Reasoning in Healthcare and Medicine: From Individual Modeling to Collaborative Agents [Preprint]. TechRxiv 2026 (0216).
 
 - Jian Zhang, Yu He, Zhiyuan Wang, Zhangqi Wang, ***Kai He***, Fangzhi Xu, Qika Lin, Jun Liu. A<sup>3</sup>-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation [Preprint]. arXiv:2601.09274, 2026.
+
+- Y. Xing, L. Huang, J. Ma, R. Hong, J. Qiu, P. Liu, ***Kai He***, H. Fu, M. Feng. DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction [Preprint]. arXiv:2510.00053, 2025.
+
+- Y. Du, F. Fan, S. Zhao, J. Cao, Q. Lin, ***Kai He***, T. Liu, B. Qin, M. Feng. Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint [Preprint]. arXiv:2509.06795, 2025.
+
+- A foundation model for chest x-ray interpretation with grounded reasoning via online reinforcement learning [Preprint]. arXiv:2509.03906, 2025.
+
+- Q. Lin, F. Xu, H. Lu, ***Kai He***, R. Mao, J. Liu, E. Cambria, M. Feng. Towards Unified Neurosymbolic Reasoning on Knowledge Graphs [Preprint]. arXiv:2507.03697, 2025.
+
+- Z. Gao, ***Kai He***, W. Su, I. P. Machado, W. McGough, M. Jimenez-Linan, B. Rous, et al. ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering [Preprint]. medRxiv, 2025.04.22.25326190.
+
+- Q. Lin, Z. Peng, K. Shi, ***Kai He***, Y. Xu, J. Zhang, E. Cambria, M. Feng. A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models [Preprint]. arXiv:2502.00681, 2025.
+
+- Y. Ruan, X. Lan, J. Ma, Y. Dong, ***Kai He***, M. Feng. Language modeling on tabular data: A survey of foundations, techniques and evolution [Preprint]. arXiv:2408.10548, 2024.
 
 - Dilruk Perera, Gousia Habib, Qianyi Xu, Daniel J. Tan, ***Kai He***, Erik Cambria, Mengling Feng. Beyond Prediction: Reinforcement Learning as the Defining Leap in Healthcare AI [Preprint]. arXiv:2508.21101, 2025.
 
