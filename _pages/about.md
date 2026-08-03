@@ -92,11 +92,23 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - Jian Zhang, Zhangqi Wang, Haiping Zhu, Kangda Cheng, ***Kai He***, Bo Li, Qika Lin, Jun Liu, Erik Cambria. MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 16307–16315.
 
+- Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis [J]. Google Scholar, 2026.
+
+- Multi-view graph learning in brain network analysis: A survey [J]. Google Scholar, 2026.
+
+- Bridging the modality bottleneck in pathology mil through virtual molecular staining [J]. Google Scholar, 2026.
+
 
 
 ## 2025
 
 - Hui Bao, ***Kai He***, Yige Wang, Zeyu Gao. Exploring cognitive difference in poetry collection via large language models and metaphors: A case study of the book of songs [J]. Cognitive Computation, 2025, 17(3): 106.
+
+- Toward Clinically Explainable AI for Medical Diagnosis: A Foundation Model with Human-Compatible Reasoning via Reinforcement Learning [J]. Google Scholar, 2025.
+
+- Mind the Gap: Aligning Knowledge Bases with User Needs to Enhance Mental Health Retrieval [J]. Google Scholar, 2025.
+
+- Med-Banana: Learning Quality-Controlled Medical Image Editing from Success-and-Failure Trajectories [J]. Google Scholar, 2025.
 
 - Zeyu Gao, Anyu Mao, Yuxing Dong, Hannah Clayton, Jialun Wu, Jiashuai Liu, Chunbao Wang, ***Kai He***, Tieliang Gong, Chen Li, Mireia Crispin-Ortuzar. SMMILe Enables Accurate Spatial Quantification in Digital Pathology Using Multiple-Instance Learning [J]. Nature Cancer, 2025, 6: 2025–2041.
 
@@ -179,6 +191,8 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 ## 2022 and Before
 
 - ***Kai He***, J. Wu, X. Ma, et al. Extracting Kinship from Obituaries to Enhance Electronic Health Records for Genetic Research [C]. Proceedings of the Fourth Social Media Mining for Health Applications (SMM4H) Workshop & Shared Task, 2019: 1–10.
+
+- Yangyang Lan, Ming Huang, Chen Li, and Lixia Yao. Understanding the patient perspective of epilepsy treatment through text mining of online patient support groups [J]. Google Scholar, 2019.
 
 - ***Kai He***, Rui Mao, T. Gong, et al. JCBIE: A joint continual learning neural network for biomedical information extraction [J]. BMC Bioinformatics, 2022, 23(1): 549.
 
