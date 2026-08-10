@@ -92,6 +92,8 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 - Jian Zhang, Zhangqi Wang, Haiping Zhu, Kangda Cheng, ***Kai He***, Bo Li, Qika Lin, Jun Liu, Erik Cambria. MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 16307–16315.
 
+- From Patches to Evidence Balls: Class-Conditioned Evidence Retrieval for Few-Shot Whole Slide Image Classification [J]. Google Scholar, 2026.
+
 - Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis [J]. Google Scholar, 2026.
 
 - Multi-view graph learning in brain network analysis: A survey [J]. Google Scholar, 2026.
