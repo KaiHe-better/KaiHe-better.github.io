@@ -7,67 +7,80 @@
       "title": "Unraveling the Evolution of Public Cognition of COVID-19: A Case Study of Metaphorical Narratives in US Twitter Discussions",
       "section": "publication",
       "year": 2026,
-      "sort_date": "2026-06",
-      "markdown": "- R. Mao, T. Yue, ***Kai He***, Q. Liu, E. Cambria. Unraveling the Evolution of Public Cognition of COVID-19: A Case Study of Metaphorical Narratives in US Twitter Discussions [J]. Cognitive Computation, 2026, 18(1): 54."
+      "sort_date": "2026-05-20",
+      "markdown": "- R. Mao, T. Yue, ***Kai He***, Q. Liu, E. Cambria. Unraveling the Evolution of Public Cognition of COVID-19: A Case Study of Metaphorical Narratives in US Twitter Discussions [J]. Cognitive Computation, 2026, 18(1): 54.",
+      "doi": "10.1007/s12559-026-10579-6"
     },
     {
       "title": "Curriculum Learning based Hierarchical Scoring and Analysis Framework for Question Answering Task Evaluation",
       "section": "publication",
       "year": 2026,
-      "sort_date": "2026-06",
-      "markdown": "- Q. Wu, T. Yue, J. Liang, Z. Li, ***Kai He***, S. Zhao, D. Zhao. Curriculum Learning based Hierarchical Scoring and Analysis Framework for Question Answering Task Evaluation [C]. Findings of the Association for Computational Linguistics: ACL 2026, 6672-6699."
+      "sort_date": "2026-07",
+      "markdown": "- Q. Wu, T. Yue, J. Liang, Z. Li, ***Kai He***, S. Zhao, D. Zhao. Curriculum Learning based Hierarchical Scoring and Analysis Framework for Question Answering Task Evaluation [C]. Findings of the Association for Computational Linguistics: ACL 2026, 6672-6699.",
+      "doi": "10.18653/v1/2026.findings-acl.332"
     },
     {
       "title": "MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning",
       "section": "publication",
       "year": 2026,
-      "sort_date": "2026-06",
-      "markdown": "- Z. Chen, ***Kai He***, Q. Lei, B. Pu, J. Zhang, Y. Xu, M. Feng. MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning [C]. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026."
+      "sort_date": "2026-07",
+      "markdown": "- Z. Chen, ***Kai He***, Q. Lei, B. Pu, J. Zhang, Y. Xu, M. Feng. MedForge: Interpretable Medical Deepfake Detection via Forgery-Aware Reasoning [C]. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, 2026.",
+      "doi": "10.18653/v1/2026.acl-long.1177"
     },
     {
       "title": "Aligned Information Bottleneck for Multimodal Social Sentiment Analysis",
       "section": "publication",
       "year": 2026,
-      "sort_date": "2026-06",
-      "markdown": "- R. Zou, J. Zhang, A. Ren, W. Wang, Z. Gao, J. Wu, ***Kai He***. Aligned Information Bottleneck for Multimodal Social Sentiment Analysis [J]. IEEE Transactions on Computational Social Systems, 2026."
+      "sort_date": "2026-05-19",
+      "markdown": "- R. Zou, J. Zhang, A. Ren, W. Wang, Z. Gao, J. Wu, ***Kai He***. Aligned Information Bottleneck for Multimodal Social Sentiment Analysis [J]. IEEE Transactions on Computational Social Systems, 2026.",
+      "doi": "10.1109/tcss.2026.3686434"
     },
     {
       "title": "BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification",
       "section": "publication",
       "year": 2026,
-      "sort_date": "2026-06",
-      "markdown": "- J. Xu, ***Kai He***, Y. Tang, W. Li, M. Lan, Y. Xun, Q. Lin, P. Ran, Y. Ke, M. Feng. BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification [J]. IEEE Transactions on Medical Imaging, 2026."
+      "sort_date": "2026-07",
+      "markdown": "- J. Xu, ***Kai He***, Y. Tang, W. Li, M. Lan, Y. Xun, Q. Lin, P. Ran, Y. Ke, M. Feng. BrainPrompt+: Multi-Level Brain Prompt Learning for Knowledge-Guided Neurological Disorder Identification [J]. IEEE Transactions on Medical Imaging, 2026.",
+      "doi": "10.1109/tmi.2026.3692958"
     },
     {
       "title": "Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction",
       "section": "preprint",
       "year": 2026,
-      "sort_date": "2026-05",
-      "markdown": "- Y. Ruan, L. Huang, Q. Lin, ***Kai He***, M. Feng. Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction [Preprint]. arXiv:2605.05121, 2026."
+      "sort_date": "2026-05-06",
+      "markdown": "- Y. Ruan, L. Huang, Q. Lin, ***Kai He***, M. Feng. Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction [Preprint]. arXiv:2605.05121, 2026.",
+      "doi": "10.48550/arxiv.2605.05121"
     },
     {
       "title": "MTLQ-ViT: Multi-Granularity Tail-Enhanced Logarithmic Quantization for Vision Transformers",
       "section": "publication",
       "year": 2026,
-      "sort_date": "2026-04",
+      "sort_date": "2026-04-15",
       "markdown": "- Yan Kang, Shouhao Xu, Qika Lin, ***Kai He***, Zhan Gao, Zhuangzhuang Chen, Bin Pu. MTLQ-ViT: Multi-Granularity Tail-Enhanced Logarithmic Quantization for Vision Transformers [J]. Pattern Recognition, 2026: 113769.",
-      "news": "- *2026.04*: &nbsp;🎉🎉 Our paper on vision transformer quantization is accepted by Pattern Recognition. Congrats to Dr. Kang."
+      "news": "- *2026.04*: &nbsp;🎉🎉 Our paper on vision transformer quantization is accepted by Pattern Recognition. Congrats to Dr. Kang.",
+      "doi": "10.1016/j.patcog.2026.113769"
     },
     {
-      "title": "Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases",
-      "section": "preprint",
+      "title": "Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning across Arbitrary Atlases",
+      "section": "publication",
       "year": 2026,
-      "sort_date": "2026-03",
-      "markdown": "- Jiaxing Xu, Jingying Ma, Xin Lin, Yuxiao Liu, ***Kai He***, Qika Lin, Yiping Ke, Yang Li, Dinggang Shen, Mengling Feng. Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases [Preprint]. arXiv:2603.20348, 2026.",
-      "news": "- *2026.03*: &nbsp;🎉🎉 Our paper on multi-view brain network foundation model is released as an arXiv preprint. Congrats to Dr. Xu."
+      "sort_date": "2026",
+      "markdown": "- J. Xu, J. Ma, X. Lin, Y. Liu, ***Kai He***, Q. Lin, Y. Ke, Y. Li, D. Shen, M. Feng. Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning across Arbitrary Atlases [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026: 1-18.",
+      "news": "- *2026.10*: &nbsp;🎉🎉 Our paper “Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning across Arbitrary Atlases” is published in IEEE Transactions on Pattern Analysis and Machine Intelligence.",
+      "doi": "10.1109/tpami.2026.3736359",
+      "metadata_source": "Crossref/arXiv",
+      "aliases": [
+        "Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning Across Arbitrary Atlases"
+      ]
     },
     {
       "title": "Recovering Coherent Affective Patterns: Addressing Modality Missing in Multimodal Sentiment Analysis",
       "section": "publication",
       "year": 2026,
-      "sort_date": "2026-02",
+      "sort_date": "2026-03-14",
       "markdown": "- Huiting Huang, Tieliang Gong, ***Kai He***, Wen Wen, Weizhan Zhang, Mengling Feng. Recovering Coherent Affective Patterns: Addressing Modality Missing in Multimodal Sentiment Analysis [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 21957–21965.",
-      "news": "- *2026.02*: &nbsp;🎉🎉 Our paper on recovering coherent affective patterns is accepted by AAAI 2026."
+      "news": "- *2026.02*: &nbsp;🎉🎉 Our paper on recovering coherent affective patterns is accepted by AAAI 2026.",
+      "doi": "10.1609/aaai.v40i26.39349"
     },
     {
       "title": "A Survey of LLM Reasoning in Healthcare and Medicine: From Individual Modeling to Collaborative Agents",
@@ -81,9 +94,10 @@
       "title": "From Latent Signals to Reflection Behavior: Tracing Meta-Cognitive Activation Trajectory in R1-Style LLMs",
       "section": "preprint",
       "year": 2026,
-      "sort_date": "2026-02",
+      "sort_date": "2026-02-02",
       "markdown": "- Yanrui Du, Yibo Gao, Sendong Zhao, Jiayun Li, Haochun Wang, Qika Lin, ***Kai He***, Bing Qin, Mengling Feng. From Latent Signals to Reflection Behavior: Tracing Meta-Cognitive Activation Trajectory in R1-Style LLMs [Preprint]. arXiv:2602.01999, 2026.",
-      "news": "- *2026.02*: &nbsp;🎉🎉 Our paper on meta-cognitive activation trajectory in R1-style LLMs is released as an arXiv preprint."
+      "news": "- *2026.02*: &nbsp;🎉🎉 Our paper on meta-cognitive activation trajectory in R1-style LLMs is released as an arXiv preprint.",
+      "doi": "10.48550/arxiv.2602.01999"
     },
     {
       "title": "A3-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation",
@@ -103,54 +117,57 @@
       "title": "MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization",
       "section": "publication",
       "year": 2026,
-      "sort_date": "2026-01",
+      "sort_date": "2026-03-14",
       "markdown": "- Jian Zhang, Zhangqi Wang, Haiping Zhu, Kangda Cheng, ***Kai He***, Bo Li, Qika Lin, Jun Liu, Erik Cambria. MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization [C]. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026: 16307–16315.",
-      "news": "- *2026.01*: &nbsp;🎉🎉 Our paper on multi-agent adaptive reasoning for automated prompt optimization is accepted by AAAI 2026."
+      "news": "- *2026.01*: &nbsp;🎉🎉 Our paper on multi-agent adaptive reasoning for automated prompt optimization is accepted by AAAI 2026.",
+      "doi": "10.1609/aaai.v40i19.38668"
     },
     {
       "title": "DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction",
       "section": "preprint",
       "year": 2025,
-      "sort_date": "2025-10",
-      "markdown": "- Y. Xing, L. Huang, J. Ma, R. Hong, J. Qiu, P. Liu, ***Kai He***, H. Fu, M. Feng. DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction [Preprint]. arXiv:2510.00053, 2025."
+      "sort_date": "2025-09-28",
+      "markdown": "- Y. Xing, L. Huang, J. Ma, R. Hong, J. Qiu, P. Liu, ***Kai He***, H. Fu, M. Feng. DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction [Preprint]. arXiv:2510.00053, 2025.",
+      "doi": "10.48550/arxiv.2510.00053"
     },
     {
       "title": "Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint",
       "section": "preprint",
       "year": 2025,
-      "sort_date": "2025-09",
-      "markdown": "- Y. Du, F. Fan, S. Zhao, J. Cao, Q. Lin, ***Kai He***, T. Liu, B. Qin, M. Feng. Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint [Preprint]. arXiv:2509.06795, 2025."
-    },
-    {
-      "title": "A foundation model for chest x-ray interpretation with grounded reasoning via online reinforcement learning",
-      "section": "preprint",
-      "year": 2025,
-      "sort_date": "2025-09",
-      "markdown": "- A foundation model for chest x-ray interpretation with grounded reasoning via online reinforcement learning [Preprint]. arXiv:2509.03906, 2025."
+      "sort_date": "2025-09-08",
+      "markdown": "- Y. Du, F. Fan, S. Zhao, J. Cao, Q. Lin, ***Kai He***, T. Liu, B. Qin, M. Feng. Anchoring Refusal Direction: Mitigating Safety Risks in Tuning via Projection Constraint [Preprint]. arXiv:2509.06795, 2025.",
+      "doi": "10.48550/arxiv.2509.06795"
     },
     {
       "title": "Towards Unified Neurosymbolic Reasoning on Knowledge Graphs",
-      "section": "preprint",
-      "year": 2025,
-      "sort_date": "2025-07",
-      "markdown": "- Q. Lin, F. Xu, H. Lu, ***Kai He***, R. Mao, J. Liu, E. Cambria, M. Feng. Towards Unified Neurosymbolic Reasoning on Knowledge Graphs [Preprint]. arXiv:2507.03697, 2025."
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-09-02",
+      "markdown": "- Q. Lin, F. Xu, H. Lu, ***Kai He***, R. Mao, J. Liu, E. Cambria, M. Feng. Towards Unified Neurosymbolic Reasoning on Knowledge Graphs [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026: 1-16.",
+      "doi": "10.1109/tpami.2026.3729969",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2026.09*: &nbsp;🎉🎉 Our paper “Towards Unified Neurosymbolic Reasoning on Knowledge Graphs” is published in IEEE Transactions on Pattern Analysis and Machine Intelligence."
     },
     {
       "title": "ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering",
       "aliases": [
         "ALPaCA: Adapting Llama for Pathology Context Analysis to Enable Slide-Level Question Answering"
       ],
-      "section": "preprint",
-      "year": 2025,
-      "sort_date": "2025-04",
-      "markdown": "- Z. Gao, ***Kai He***, W. Su, I. P. Machado, W. McGough, M. Jimenez-Linan, B. Rous, et al. ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering [Preprint]. medRxiv, 2025.04.22.25326190."
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-08-20",
+      "markdown": "- Z. Gao, ***Kai He***, W. Su, X. Pang, I. P. Machado, M. Jimenez-Linan, B. Rous, C. Wang, C. Li, W. McGough, S. Gao, D. Zhang, T. Gong, M. Y. Lu, F. Mahmood, M. Feng, C. Li, M. Crispin-Ortuzar. ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering [J]. Nature Communications, 2026, 17(1): 9943.",
+      "doi": "10.1038/s41467-026-76372-z",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2026.08*: &nbsp;🎉🎉 Our paper “ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering” is published in Nature Communications."
     },
     {
       "title": "A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models",
       "section": "preprint",
       "year": 2025,
-      "sort_date": "2025-02",
-      "markdown": "- Q. Lin, Z. Peng, K. Shi, ***Kai He***, Y. Xu, J. Zhang, E. Cambria, M. Feng. A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models [Preprint]. arXiv:2502.00681, 2025."
+      "sort_date": "2025-02-02",
+      "markdown": "- Q. Lin, Z. Peng, K. Shi, ***Kai He***, Y. Xu, J. Zhang, E. Cambria, M. Feng. A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models [Preprint]. arXiv:2502.00681, 2025.",
+      "doi": "10.48550/arxiv.2502.00681"
     },
     {
       "title": "Exploring cognitive difference in poetry collection via large language models and metaphors: A case study of the book of songs",
@@ -159,22 +176,364 @@
       ],
       "section": "publication",
       "year": 2025,
-      "sort_date": "2025-01",
-      "markdown": "- Hui Bao, ***Kai He***, Yige Wang, Zeyu Gao. Exploring cognitive difference in poetry collection via large language models and metaphors: A case study of the book of songs [J]. Cognitive Computation, 2025, 17(3): 106."
+      "sort_date": "2025-05-22",
+      "markdown": "- Hui Bao, ***Kai He***, Yige Wang, Zeyu Gao. Exploring cognitive difference in poetry collection via large language models and metaphors: A case study of the book of songs [J]. Cognitive Computation, 2025, 17(3): 106.",
+      "doi": "10.1007/s12559-025-10466-6"
     },
     {
       "title": "Language modeling on tabular data: A survey of foundations, techniques and evolution",
       "section": "preprint",
       "year": 2024,
-      "sort_date": "2024-08",
-      "markdown": "- Y. Ruan, X. Lan, J. Ma, Y. Dong, ***Kai He***, M. Feng. Language modeling on tabular data: A survey of foundations, techniques and evolution [Preprint]. arXiv:2408.10548, 2024."
+      "sort_date": "2024-08-20",
+      "markdown": "- Y. Ruan, X. Lan, J. Ma, Y. Dong, ***Kai He***, M. Feng. Language modeling on tabular data: A survey of foundations, techniques and evolution [Preprint]. arXiv:2408.10548, 2024.",
+      "doi": "10.48550/arxiv.2408.10548"
     },
     {
       "title": "Extracting kinship from obituary to enhance electronic health records for genetic research",
       "section": "publication",
       "year": 2019,
-      "sort_date": "2019-01",
-      "markdown": "- ***Kai He***, J. Wu, X. Ma, et al. Extracting Kinship from Obituaries to Enhance Electronic Health Records for Genetic Research [C]. Proceedings of the Fourth Social Media Mining for Health Applications (SMM4H) Workshop & Shared Task, 2019: 1–10."
+      "sort_date": "2019-08",
+      "markdown": "- ***Kai He***, J. Wu, X. Ma, et al. Extracting Kinship from Obituaries to Enhance Electronic Health Records for Genetic Research [C]. Proceedings of the Fourth Social Media Mining for Health Applications (SMM4H) Workshop & Shared Task, 2019: 1–10.",
+      "doi": "10.18653/v1/w19-3201"
+    },
+    {
+      "title": "Affective Language Processing for Mental Healthcare: A Survey of LLM-Based Approaches across the Care Continuum",
+      "doi": "10.1109/taffc.2026.3726877",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-08-24",
+      "markdown": "- J. Wu, ***Kai He***, O. P. Kampman, C. S. K. Gerard, G. W. B. Wilson, Q. Lin, J. Xu, Y. Du, X. Shang, E. Cambria, M. Feng. Affective Language Processing for Mental Healthcare: A Survey of LLM-Based Approaches across the Care Continuum [J]. IEEE Transactions on Affective Computing, 2026: 1-20.",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2026.08*: &nbsp;🎉🎉 Our paper “Affective Language Processing for Mental Healthcare: A Survey of LLM-Based Approaches across the Care Continuum” is published in IEEE Transactions on Affective Computing."
+    },
+    {
+      "title": "From Patches to Evidence Balls: Class-Conditioned Evidence Retrieval for Few-Shot Whole Slide Image Classification",
+      "doi": "10.48550/arxiv.2608.01104",
+      "section": "preprint",
+      "year": 2026,
+      "sort_date": "2026-08-02",
+      "markdown": "- D. Zhang, L. Zhang, J. Liu, J. Lu, Z. Zeng, J. Ge, C. Yang, Y. Niu, J. Chen, ***Kai He***, Z. Gao, C. Li. From Patches to Evidence Balls: Class-Conditioned Evidence Retrieval for Few-Shot Whole Slide Image Classification [Preprint]. arXiv:2608.01104, 2026.",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2026.08*: &nbsp;🎉🎉 Our paper “From Patches to Evidence Balls: Class-Conditioned Evidence Retrieval for Few-Shot Whole Slide Image Classification” is released as an arXiv preprint."
+    },
+    {
+      "title": "Learnable frozen feature augmentation for few-shot biomarker prediction from pathology whole-slide images",
+      "doi": "10.1093/bioinformatics/btag597",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-08-07",
+      "markdown": "- D. Zhang, J. Liu, Y. Ma, J. Ge, Z. Zeng, W. Sun, Q. Liu, ***Kai He***, Y. Zheng, W. Yu, C. Li, Z. Gao. Learnable frozen feature augmentation for few-shot biomarker prediction from pathology whole-slide images [J]. Bioinformatics, 2026, 42(8): btag597.",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2026.08*: &nbsp;🎉🎉 Our paper “Learnable frozen feature augmentation for few-shot biomarker prediction from pathology whole-slide images” is published in Bioinformatics."
+    },
+    {
+      "title": "Multi-view graph learning in brain network analysis: A survey",
+      "doi": "10.1016/j.inffus.2026.104612",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-07-10",
+      "markdown": "- J. Xu, X. Dong, T. Huang, ***Kai He***, Q. Lin, D. Wu, W. Zhang, Y. Ke, M. Feng, P. S. Yu. Multi-view graph learning in brain network analysis: A survey [J]. Information Fusion, 2026, 137: 104612.",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2026.07*: &nbsp;🎉🎉 Our paper “Multi-view graph learning in brain network analysis: A survey” is published in Information Fusion."
+    },
+    {
+      "title": "Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis",
+      "doi": "10.48550/arxiv.2606.19966",
+      "section": "preprint",
+      "year": 2026,
+      "sort_date": "2026-06-18",
+      "markdown": "- Y. Xing, L. Huang, P. Liu, J. Ma, J. Xu, ***Kai He***, M. Feng. Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis [Preprint]. arXiv:2606.19966, 2026.",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2026.06*: &nbsp;🎉🎉 Our paper “Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis” is released as an arXiv preprint."
+    },
+    {
+      "title": "Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining",
+      "doi": "10.48550/arxiv.2605.16392",
+      "section": "preprint",
+      "year": 2026,
+      "sort_date": "2026-05-12",
+      "markdown": "- Y. Xing, P. Liu, J. Ma, R. Hong, J. Qiu, T. Liu, ***Kai He***, L. Huang, M. Feng. Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining [Preprint]. arXiv:2605.16392, 2026.",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2026.05*: &nbsp;🎉🎉 Our paper “Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining” is released as an arXiv preprint."
+    },
+    {
+      "title": "Neuro-Symbolic AI in Healthcare",
+      "markdown": "- Jialun Wu, Xin Mei, ***Kai He***, Jiaxing Xu, Qika Lin, Zeyu Gao, Rui Mao. Neuro-Symbolic AI in Healthcare [C]. 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2025, Accepted.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-12-15",
+      "doi": "10.1109/bibm66473.2025.11356503"
+    },
+    {
+      "title": "SMMILe Enables Accurate Spatial Quantification in Digital Pathology Using Multiple-Instance Learning",
+      "markdown": "- Zeyu Gao, Anyu Mao, Yuxing Dong, Hannah Clayton, Jialun Wu, Jiashuai Liu, Chunbao Wang, ***Kai He***, Tieliang Gong, Chen Li, Mireia Crispin-Ortuzar. SMMILe Enables Accurate Spatial Quantification in Digital Pathology Using Multiple-Instance Learning [J]. Nature Cancer, 2025, 6: 2025–2041.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-11-19",
+      "doi": "10.1038/s43018-025-01060-8"
+    },
+    {
+      "title": "Med-Banana: Learning Quality-Controlled Medical Image Editing from Success-and-Failure Trajectories",
+      "doi": "10.48550/arxiv.2511.00801",
+      "section": "preprint",
+      "year": 2025,
+      "sort_date": "2025-11-02",
+      "markdown": "- Z. Chen, Q. Lei, ***Kai He***, Y. Du, M. Feng. Med-Banana: Learning Quality-Controlled Medical Image Editing from Success-and-Failure Trajectories [Preprint]. arXiv:2511.00801, 2025.",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2025.11*: &nbsp;🎉🎉 Our paper “Med-Banana: Learning Quality-Controlled Medical Image Editing from Success-and-Failure Trajectories” is released as an arXiv preprint."
+    },
+    {
+      "title": "InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care",
+      "markdown": "- ***Kai He***, Qika Lin, Hao Fei, Eng Siong Chng, Dehan Hong, Marcus Eng Hock Ong, Mengling Feng. InTriage: Intelligent Telephone Triage in Pre-Hospital Emergency Care [C]. Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, Accepted.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-11",
+      "doi": "10.18653/v1/2025.emnlp-demos.67"
+    },
+    {
+      "title": "DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains",
+      "markdown": "- Zhihui Chen, ***Kai He***, Yucheng Huang, Yunxiao Zhu, Mengling Feng. DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains [C]. Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, Accepted.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-11",
+      "doi": "10.18653/v1/2025.emnlp-main.971"
+    },
+    {
+      "title": "Harnessing the Potential of Multimodal EHR Data: A Comprehensive Survey of Clinical Predictive Modeling for Intelligent Healthcare",
+      "markdown": "- Jialun Wu, ***Kai He***, Rui Mao, Xuequn Shang, Erik Cambria. Harnessing the Potential of Multimodal EHR Data: A Comprehensive Survey of Clinical Predictive Modeling for Intelligent Healthcare [J]. Information Fusion, 2025: 103283.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-11",
+      "doi": "10.1016/j.inffus.2025.103283"
+    },
+    {
+      "title": "Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi-Source Domain Knowledge in EHRs",
+      "markdown": "- Jialun Wu, ***Kai He***, Zeyu Gao, Xuequn Shang, Mengling Feng. Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi-Source Domain Knowledge in EHRs [J]. IEEE Journal of Biomedical and Health Informatics (JBHI), 2025, Online.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-09-15",
+      "doi": "10.1109/jbhi.2025.3609064"
+    },
+    {
+      "title": "Toward Clinically Explainable AI for Medical Diagnosis: A Foundation Model with Human-Compatible Reasoning via Reinforcement Learning",
+      "doi": "10.48550/arxiv.2509.03906",
+      "section": "preprint",
+      "year": 2025,
+      "sort_date": "2025-09-04",
+      "markdown": "- Q. Lin, Y. Zhu, B. Pu, L. Huang, H. Luo, J. Ma, F. Wu, ***Kai He***, J. Xu, Z. Peng, T. Zhao, F. Xu, J. Zhang, Z. Ou, E. Cambria, S. Mishra, M. Feng. Toward Clinically Explainable AI for Medical Diagnosis: A Foundation Model with Human-Compatible Reasoning via Reinforcement Learning [Preprint]. arXiv:2509.03906, 2025.",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2025.09*: &nbsp;🎉🎉 Our paper “Toward Clinically Explainable AI for Medical Diagnosis: A Foundation Model with Human-Compatible Reasoning via Reinforcement Learning” is released as an arXiv preprint.",
+      "aliases": [
+        "A foundation model for chest x-ray interpretation with grounded reasoning via online reinforcement learning"
+      ]
+    },
+    {
+      "title": "Beyond Prediction: Reinforcement Learning as the Defining Leap in Healthcare AI",
+      "markdown": "- Dilruk Perera, Gousia Habib, Qianyi Xu, Daniel J. Tan, ***Kai He***, Erik Cambria, Mengling Feng. Beyond Prediction: Reinforcement Learning as the Defining Leap in Healthcare AI [Preprint]. arXiv:2508.21101, 2025.",
+      "section": "preprint",
+      "year": 2025,
+      "sort_date": "2025-08-28",
+      "doi": "10.48550/arxiv.2508.21101"
+    },
+    {
+      "title": "Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark",
+      "markdown": "- ***Kai He***, Yucheng Huang, Wenqing Wang, Delong Ran, Dongming Sheng, Junxuan Huang, Qika Lin, Jiaxing Xu, Wenqiang Liu, Mengling Feng. Crab: A Novel Configurable Role-Playing LLM with Assessing Benchmark [C]. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025: 15030–15052.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-07",
+      "doi": "10.18653/v1/2025.acl-long.731"
+    },
+    {
+      "title": "Self-Supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models",
+      "markdown": "- Qika Lin, Tianzhe Zhao, ***Kai He***, Zhen Peng, Fangzhi Xu, Ling Huang, Jingying Ma, Mengling Feng. Self-Supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models [C]. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025: 13587–13602.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-07",
+      "doi": "10.18653/v1/2025.acl-long.667"
+    },
+    {
+      "title": "From Patches to WSIs: A Systematic Review of Deep Multiple Instance Learning in Computational Pathology",
+      "markdown": "- Yuchen Zhang, Zeyu Gao, ***Kai He***, Chen Li, Rui Mao. From Patches to WSIs: A Systematic Review of Deep Multiple Instance Learning in Computational Pathology [J]. Information Fusion, 2025: 103027.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-07",
+      "doi": "10.1016/j.inffus.2025.103027"
+    },
+    {
+      "title": "Cross-Modal Knowledge Diffusion-Based Generation for Difference-Aware Medical VQA",
+      "markdown": "- Qika Lin, ***Kai He***, Yifan Zhu, Fangzhi Xu, Erik Cambria, Mengling Feng. Cross-Modal Knowledge Diffusion-Based Generation for Difference-Aware Medical VQA [J]. IEEE Transactions on Image Processing, 2025: 2421–2434.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-04-11",
+      "doi": "10.1109/tip.2025.3558446"
+    },
+    {
+      "title": "Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey",
+      "markdown": "- Qika Lin, Yifan Zhu, Xin Mei, Ling Huang, Jingying Ma, ***Kai He***, Zhen Peng, Erik Cambria, Mengling Feng. Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey [J]. Information Fusion, 2025, 116: 102795.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-04",
+      "doi": "10.1016/j.inffus.2024.102795"
+    },
+    {
+      "title": "Gem: Empowering MLLM for Grounded ECG Understanding with Time Series and Images",
+      "markdown": "- Xiang Lan, Feng Wu, ***Kai He***, Qinghao Zhao, Shenda Hong, Mengling Feng. Gem: Empowering MLLM for Grounded ECG Understanding with Time Series and Images [C]. Advances in Neural Information Processing Systems (NeurIPS), 2025, Accepted.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-03-08",
+      "doi": "10.52202/085713-3158"
+    },
+    {
+      "title": "A Survey on Pragmatic Processing Techniques",
+      "markdown": "- Rui Mao, Mengshi Ge, Sooji Han, Wei Li, ***Kai He***, Luyao Zhu, Erik Cambria. A Survey on Pragmatic Processing Techniques [J]. Information Fusion, 2025, 114: 102712.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-02",
+      "doi": "10.1016/j.inffus.2024.102712"
+    },
+    {
+      "title": "A Survey of Large Language Models for Healthcare: From Data, Technology, and Applications to Accountability and Ethics",
+      "markdown": "- ***Kai He***, Rui Mao, Qika Lin, Yucheng Ruan, Xiang Lan, Mengling Feng, Erik Cambria. A Survey of Large Language Models for Healthcare: From Data, Technology, and Applications to Accountability and Ethics [J]. Information Fusion, 2025, 118: 102963.",
+      "section": "publication",
+      "year": 2025,
+      "sort_date": "2025-06",
+      "doi": "10.1016/j.inffus.2025.102963"
+    },
+    {
+      "title": "Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification",
+      "markdown": "- J. Xu, ***Kai He***, M. Lan, et al. Contrasformer: a brain network contrastive transformer for neurodegenerative condition identification [C]. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, 2024: 2671–2681.",
+      "section": "publication",
+      "year": 2024,
+      "sort_date": "2024-10-21",
+      "doi": "10.1145/3627673.3679560"
+    },
+    {
+      "title": "Integrating K+ Entities into Coreference Resolution on Biomedical Texts",
+      "markdown": "- Y. Li, X. Ma, X. Zhou, ***Kai He***， et al. Integrating K+ Entities into Coreference Resolution on Biomedical Texts [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024.",
+      "section": "publication",
+      "year": 2024,
+      "sort_date": "2024-11",
+      "doi": "10.1109/tcbb.2024.3447273"
+    },
+    {
+      "title": "MetaPro 2.0: Computational metaphor processing on the effectiveness of anomalous language modeling",
+      "markdown": "- R. Mao, ***Kai He***, C. Ong, et al. MetaPro 2.0: Computational metaphor processing on the effectiveness of anomalous language modeling [C]. Findings of the Association for Computational Linguistics (ACL), 2024: 9891–9908.",
+      "section": "publication",
+      "year": 2024,
+      "sort_date": "2024-08",
+      "doi": "10.18653/v1/2024.findings-acl.590"
+    },
+    {
+      "title": "Promise: A pre-trained knowledge-infused multimodal representation learning framework for medication recommendation",
+      "markdown": "- J. Wu, X. Yu, ***Kai He***, et al. Promise: A pre-trained knowledge-infused multimodal representation learning framework for medication recommendation [J]. Information Processing & Management, 2024, 61(4): 103758.",
+      "section": "publication",
+      "year": 2024,
+      "sort_date": "2024-07",
+      "doi": "10.1016/j.ipm.2024.103758"
+    },
+    {
+      "title": "A survey on semantic processing techniques",
+      "markdown": "- R. Mao, ***Kai He***, X. Zhang, et al. A survey on semantic processing techniques [J]. Information Fusion, 2024, 101: 101988.",
+      "section": "publication",
+      "year": 2024,
+      "sort_date": "2024-01",
+      "doi": "10.1016/j.inffus.2023.101988"
+    },
+    {
+      "title": "Neuro-symbolic sentiment analysis with dynamic word sense disambiguation",
+      "markdown": "- X. Zhang, R. Mao, ***Kai He***, et al. Neuro-symbolic sentiment analysis with dynamic word sense disambiguation [C]. Findings of the Association for Computational Linguistics: EMNLP, 2023: 8772–8783.",
+      "section": "publication",
+      "year": 2023,
+      "sort_date": "2023-12",
+      "doi": "10.18653/v1/2023.findings-emnlp.587"
+    },
+    {
+      "title": "MEGACare: Knowledge-guided multi-view hypergraph predictive framework for healthcare",
+      "markdown": "- J. Wu, ***Kai He***, R. Mao, et al. MEGACare: Knowledge-guided multi-view hypergraph predictive framework for healthcare [J]. Information Fusion, 2023, 100: 101939.",
+      "section": "publication",
+      "year": 2023,
+      "sort_date": "2023-12",
+      "doi": "10.1016/j.inffus.2023.101939"
+    },
+    {
+      "title": "MetaPro Online: A computational metaphor processing online system",
+      "markdown": "- R. Mao, X. Li, ***Kai He***, et al. MetaPro Online: A computational metaphor processing online system [C]. Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023.",
+      "section": "publication",
+      "year": 2023,
+      "sort_date": "2023",
+      "doi": "10.18653/v1/2023.acl-demo.12"
+    },
+    {
+      "title": "Virtual prompt pre-training for prototype-based few-shot relation extraction",
+      "markdown": "- ***Kai He***, Y. Huang, R. Mao, et al. Virtual prompt pre-training for prototype-based few-shot relation extraction [J]. Expert Systems with Applications, 2023, 213: 118927.",
+      "section": "publication",
+      "year": 2023,
+      "sort_date": "2023-03",
+      "doi": "10.1016/j.eswa.2022.118927"
+    },
+    {
+      "title": "The biases of pre-trained language models: An empirical study on prompt-based sentiment analysis and emotion detection",
+      "markdown": "- R. Mao, Q. Liu, ***Kai He***, et al. The biases of pre-trained language models: An empirical study on prompt-based sentiment analysis and emotion detection [J]. IEEE Transactions on Affective Computing, 2022, 14(3): 1743–1753.",
+      "section": "publication",
+      "year": 2023,
+      "sort_date": "2023-07-01",
+      "doi": "10.1109/taffc.2022.3204972"
+    },
+    {
+      "title": "JCBIE: A joint continual learning neural network for biomedical information extraction",
+      "markdown": "- ***Kai He***, Rui Mao, T. Gong, et al. JCBIE: A joint continual learning neural network for biomedical information extraction [J]. BMC Bioinformatics, 2022, 23(1): 549.",
+      "section": "publication",
+      "year": 2022,
+      "sort_date": "2022-12-19",
+      "doi": "10.1186/s12859-022-05096-w"
+    },
+    {
+      "title": "Uncertainty-guided mutual consistency training for semi-supervised biomedical relation extraction",
+      "markdown": "- B. Mao, C. Jia, Y. Huang, et al. Uncertainty-guided mutual consistency training for semi-supervised biomedical relation extraction [C]. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022: 2318–2325.",
+      "section": "publication",
+      "year": 2022,
+      "sort_date": "2022-12-06",
+      "doi": "10.1109/bibm55620.2022.9995416"
+    },
+    {
+      "title": "Knowledge enhanced coreference resolution via gated attention",
+      "markdown": "- ***Kai He***, B. Mao, X. Zhou, et al. Knowledge enhanced coreference resolution via gated attention [C]. 2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022: 2287–2293.",
+      "section": "publication",
+      "year": 2022,
+      "sort_date": "2022-12-06",
+      "doi": "10.1109/bibm55620.2022.9995551"
+    },
+    {
+      "title": "Knowledge-Enhanced LSTM for Coreference Resolution on Biomedical Texts",
+      "markdown": "- Y. Li, X. Ma, X. Zhou, et al. Knowledge-Enhanced LSTM for Coreference Resolution on Biomedical Texts [J]. Bioinformatics, 2021, 37(17): 2699–2705.",
+      "section": "publication",
+      "year": 2021,
+      "sort_date": "2021-03-11",
+      "doi": "10.1093/bioinformatics/btab153"
+    },
+    {
+      "title": "Construction of Genealogical Knowledge Graphs from Obituaries: Multitask Neural Network Extraction System",
+      "markdown": "- ***Kai He***, L. Yao, J. W. Zhang, et al. Construction of Genealogical Knowledge Graphs from Obituaries: Multitask Neural Network Extraction System [J]. Journal of Medical Internet Research, 2021, 23(8): e25670.",
+      "section": "publication",
+      "year": 2021,
+      "sort_date": "2021-08-04",
+      "doi": "10.2196/25670"
+    },
+    {
+      "title": "Understanding the Patient Perspective of Epilepsy Treatment through Text Mining of Online Patient Support Groups",
+      "markdown": "- ***Kai He***, N. Hong, S. Lapalme-Remis, et al. Understanding the Patient Perspective of Epilepsy Treatment through Text Mining of Online Patient Support Groups [J]. Epilepsy & Behavior, 2019, 94: 65–71.",
+      "section": "publication",
+      "year": 2019,
+      "sort_date": "2019-05",
+      "doi": "10.1016/j.yebeh.2019.02.002"
+    },
+    {
+      "title": "Implementation of National Health Informatization in China: Survey about the Status Quo",
+      "markdown": "- C. Li, X. Xu, G. Zhou, ***Kai He***， et al. Implementation of National Health Informatization in China: Survey about the Status Quo [J]. JMIR Medical Informatics, 2019, 7(1): e12238.",
+      "section": "publication",
+      "year": 2019,
+      "sort_date": "2019-02-21",
+      "doi": "10.2196/12238"
     }
   ]
 }
