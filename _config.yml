@@ -73,6 +73,8 @@ include:
   - "_includes/**"
 
 exclude:
+  - scripts
+  - tests
   - docs
   - google_scholar_crawler
   - "*.sublime-project"

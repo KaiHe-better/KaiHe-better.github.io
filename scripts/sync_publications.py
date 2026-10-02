@@ -14,6 +14,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import unicodedata
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -72,7 +73,7 @@ class Entry:
 
 
 def normalize_title(title: str) -> str:
-    title = title.lower()
+    title = unicodedata.normalize("NFKD", title).lower()
     title = title.replace("‑", "-").replace("–", "-").replace("—", "-")
     title = re.sub(r"<[^>]+>", "", title)
     title = re.sub(r"[^a-z0-9]+", " ", title)
@@ -102,6 +103,7 @@ def load_overrides(path: Path) -> tuple[dict[str, Entry], dict[str, str], set[st
             news=item.get("news", "").strip(),
         )
         entries[entry.key] = entry
+        aliases[normalize_title(parse_title_from_markdown(entry.markdown))] = entry.key
         for alias in item.get("aliases", []):
             aliases[normalize_title(alias)] = entry.key
 
@@ -261,11 +263,21 @@ def merge_entries(
     for key, entry in overrides.items():
         canonical = aliases.get(key, key)
         if canonical not in suppressed:
+            current = merged.get(canonical)
+            # A stale preprint override must never downgrade a formal publication.
+            if current and current.section == "publication" and entry.section == "preprint" and not is_low_fidelity_entry(current):
+                continue
+            if current and current.markdown != entry.markdown and not is_low_fidelity_entry(current) and not (current.section == "preprint" and entry.section == "publication"):
+                # Keep edits from another writer; borrow only compatible sort metadata.
+                if current.year == entry.year:
+                    current.sort_date = entry.sort_date
+                current.news = entry.news
+                continue
             merged[canonical] = entry
 
     for pub in scholar_pubs:
         generated = entry_from_scholar(pub)
-        if not generated:
+        if not generated or is_low_fidelity_entry(generated):
             continue
         key = canonical_key(generated.title, aliases)
         if key in suppressed:
@@ -293,7 +305,7 @@ def merge_entries(
 def sort_entries(entries: list[Entry]) -> list[Entry]:
     return sorted(
         entries,
-        key=lambda e: (1, e.sort_date, e.title.lower()) if e.sort_date else (0, -e.order, e.title.lower()),
+        key=lambda e: (e.sort_date or str(e.year), e.title.lower()),
         reverse=True,
     )
 
@@ -331,10 +343,16 @@ def render_publications(entries: dict[str, Entry]) -> str:
     return "\n\n".join(blocks).rstrip() + "\n"
 
 
-def render_news(entries: dict[str, Entry], year: int) -> str:
-    news_entries = [e for e in entries.values() if e.news and e.news.startswith(f"- *{year}.")]
-    news_entries = sorted(news_entries, key=lambda e: (e.sort_date, e.title.lower()), reverse=True)
-    return "\n".join(e.news for e in news_entries).rstrip() + "\n"
+def render_news(entries: dict[str, Entry], year: int | None = None, existing: str = "") -> str:
+    # The limit spans year boundaries and retains news written by other tools.
+    rows = [e.news for e in sort_entries(list(entries.values())) if e.news]
+    rows.extend(line.strip() for line in existing.splitlines() if line.strip().startswith("- "))
+    unique = list(dict.fromkeys(rows))
+    def date(row):
+        match = re.search(r"\*(\d{4})\.(\d{2})\*", row)
+        return match.group(1) + match.group(2) if match else "000000"
+    unique.sort(key=date, reverse=True)
+    return "\n".join(unique[:5]).rstrip() + "\n"
 
 
 def replace_region(text: str, start: str, end: str, replacement: str) -> str:
@@ -380,7 +398,8 @@ def main() -> int:
     scholar_pubs = scholar_publications(args.scholar_json)
 
     merged = merge_entries(existing, scholar_pubs, overrides, aliases, suppressed)
-    about_text = replace_region(about_text, NEWS_START, NEWS_END, render_news(merged, args.news_year))
+    old_news = about_text.split(NEWS_START, 1)[1].split(NEWS_END, 1)[0]
+    about_text = replace_region(about_text, NEWS_START, NEWS_END, render_news(merged, args.news_year, old_news))
     about_text = replace_region(about_text, PUBS_START, PUBS_END, render_publications(merged))
 
     if args.write:

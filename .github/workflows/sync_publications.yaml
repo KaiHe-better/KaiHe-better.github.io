@@ -2,12 +2,21 @@ name: Sync Publications
 
 on:
   schedule:
-    - cron: "0 2 * * 1"
+    # Monday 08:00 Asia/Singapore (UTC+8). GitHub scheduling can be delayed.
+    - cron: "0 0 * * 1"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sync_publications.yaml'
+      - 'scripts/**'
+      - 'tests/**'
 
 permissions:
   contents: write
+  pages: write
 
+# Keep the existing group so other cooperating publication jobs remain serialized.
 concurrency:
   group: sync-publications
   cancel-in-progress: false
@@ -15,32 +24,56 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      PUBLICATION_BRANCH: ${{ github.event.repository.default_branch }}
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-
-      - name: Install crawler dependencies
-        run: pip install -r google_scholar_crawler/requirements.txt
-
-      - name: Fetch Google Scholar data
-        env:
-          GOOGLE_SCHOLAR_ID: "4nWk-HYAAAAJ"
-        run: python google_scholar_crawler/main.py
-
-      - name: Sync homepage publication sections
-        run: python scripts/sync_publications.py --write
-
-      - name: Commit homepage changes
+          python-version: '3.11'
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - name: Install publication reader
+        run: pip install -r scripts/publication_requirements.txt
+      - name: Test merge and conflict safeguards
+        run: python -m unittest discover -s tests -v
+      - name: Collect Google Scholar and ORCID publications
+        run: python scripts/update_publications.py --collect /tmp/publication-candidates.json
+      - name: Apply to the latest revision, validate, and commit
+        id: publish
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add _pages/about.md
-          if git diff --cached --quiet; then
-            echo "No homepage publication changes."
-          else
-            git commit -m "Sync publications from Google Scholar"
-            git push
-          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python scripts/publish_publications.py /tmp/publication-candidates.json
+      - name: Request and verify GitHub Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EXPECTED_SHA: ${{ steps.publish.outputs.published_sha }}
+        run: |
+          gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"
+          for attempt in $(seq 1 60); do
+            gh api "repos/${GITHUB_REPOSITORY}/pages/builds/latest" > /tmp/pages-build.json
+            state=$(jq -r '.status' /tmp/pages-build.json)
+            commit=$(jq -r '.commit' /tmp/pages-build.json)
+            if [ "$commit" = "$EXPECTED_SHA" ] && [ "$state" = 'built' ]; then
+              echo 'Homepage deployment verified.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            if [ "$commit" = "$EXPECTED_SHA" ] && [ "$state" = 'errored' ]; then
+              jq '.error' /tmp/pages-build.json
+              exit 1
+            fi
+            sleep 10
+          done
+          echo 'Timed out waiting for the expected homepage revision to deploy.' >&2
+          exit 1
+      - name: Save source and update report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: publication-sync-report
+          path: /tmp/publication-sync-report.json
+          if-no-files-found: ignore
