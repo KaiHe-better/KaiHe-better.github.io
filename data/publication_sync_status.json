@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-02T01:50:23.855404+00:00",
+  "checked_at": "2026-10-05T02:54:45.640021+00:00",
   "sources": {
     "Google Scholar": {
-      "ok": true,
-      "count": 79
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
     },
     "ORCID": {
       "ok": true,
@@ -12,53 +12,8 @@
   },
   "skipped": [
     {
-      "title": "A Survey of LLM Reasoning in Healthcare and Medicine: from Individual Modeling to Collaborative Agents",
-      "source": "Google Scholar",
-      "reason": "No exact-title verified record; left for later verification"
-    },
-    {
-      "title": "-Bench: Benchmarking Memory-Driven Scientific Reasoning via Anchor and Attractor Activation",
-      "source": "Google Scholar",
-      "reason": "Incomplete or mismatched arXiv metadata"
-    },
-    {
-      "title": "Language-Centered Mental Healthcare with Large Language Models: A Comprehensive Survey Across the Care Continuum",
-      "source": "Google Scholar",
-      "reason": "No exact-title verified record; left for later verification"
-    },
-    {
-      "title": "Brainprompt: Multi-level brain prompt enhancement for neurological condition identification",
-      "source": "Google Scholar",
-      "reason": "No exact-title verified record; left for later verification"
-    },
-    {
-      "title": "Mind the Gap: Aligning Knowledge Bases with User Needs to Enhance Mental Health Retrieval",
-      "source": "Google Scholar",
-      "reason": "Author list does not identify Kai He"
-    },
-    {
-      "title": "A foundation model for chest x-ray interpretation with grounded reasoning via online reinforcement learning",
-      "source": "Google Scholar",
-      "reason": "Incomplete or mismatched arXiv metadata"
-    },
-    {
-      "title": "Bridging whole slide images and large language model for slide-level question answering",
-      "source": "Google Scholar",
-      "reason": "No exact-title verified record; left for later verification"
-    },
-    {
-      "title": "COPNER: Contrastive learning with prompt guiding for few-shot named entity recognition",
-      "source": "Google Scholar",
-      "reason": "No exact-title verified record; left for later verification"
-    },
-    {
-      "title": "Bert-based meta-learning approach with looking back for sentiment analysis of literary book reviews",
-      "source": "Google Scholar",
-      "reason": "No exact-title verified record; left for later verification"
-    },
-    {
-      "title": "Yangyang Lan, Ming Huang, Chen Li, and Lixia Yao. Understanding the patient perspective of epilepsy treatment through text mining of online patient support groups",
-      "source": "Google Scholar",
+      "title": "BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification",
+      "source": "ORCID",
       "reason": "No exact-title verified record; left for later verification"
     },
     {
@@ -102,6 +57,11 @@
       "reason": "HTTP Error 404: Not Found"
     },
     {
+      "title": "COPNER: Contrastive Learning with Prompt Guiding for Few-shot Named Entity Recognition",
+      "source": "ORCID",
+      "reason": "No exact-title verified record; left for later verification"
+    },
+    {
       "title": "BERT-Based Meta-Learning Approach with Looking Back for Sentiment Analysis of Literary Book Reviews",
       "source": "ORCID",
       "reason": "Unsupported or ambiguous publication type"
@@ -117,62 +77,6 @@
       "reason": "Missing venue or preprint repository"
     }
   ],
-  "changes": [
-    {
-      "title": "Towards Unified Neurosymbolic Reasoning on Knowledge Graphs",
-      "doi": "10.1109/tpami.2026.3729969",
-      "action": "promoted"
-    },
-    {
-      "title": "Affective Language Processing for Mental Healthcare: A Survey of LLM-Based Approaches across the Care Continuum",
-      "doi": "10.1109/taffc.2026.3726877",
-      "action": "added"
-    },
-    {
-      "title": "ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering",
-      "doi": "10.1038/s41467-026-76372-z",
-      "action": "promoted"
-    },
-    {
-      "title": "From Patches to Evidence Balls: Class-Conditioned Evidence Retrieval for Few-Shot Whole Slide Image Classification",
-      "doi": "10.48550/arxiv.2608.01104",
-      "action": "corrected"
-    },
-    {
-      "title": "Learnable frozen feature augmentation for few-shot biomarker prediction from pathology whole-slide images",
-      "doi": "10.1093/bioinformatics/btag597",
-      "action": "added"
-    },
-    {
-      "title": "Multi-view graph learning in brain network analysis: A survey",
-      "doi": "10.1016/j.inffus.2026.104612",
-      "action": "corrected"
-    },
-    {
-      "title": "Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis",
-      "doi": "10.48550/arxiv.2606.19966",
-      "action": "corrected"
-    },
-    {
-      "title": "Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining",
-      "doi": "10.48550/arxiv.2605.16392",
-      "action": "corrected"
-    },
-    {
-      "title": "Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning across Arbitrary Atlases",
-      "doi": "10.1109/tpami.2026.3736359",
-      "action": "promoted"
-    },
-    {
-      "title": "Med-Banana: Learning Quality-Controlled Medical Image Editing from Success-and-Failure Trajectories",
-      "doi": "10.48550/arxiv.2511.00801",
-      "action": "corrected"
-    },
-    {
-      "title": "Toward Clinically Explainable AI for Medical Diagnosis: A Foundation Model with Human-Compatible Reasoning via Reinforcement Learning",
-      "doi": "10.48550/arxiv.2509.03906",
-      "action": "corrected"
-    }
-  ],
+  "changes": [],
   "concurrent_edits_skipped": []
 }

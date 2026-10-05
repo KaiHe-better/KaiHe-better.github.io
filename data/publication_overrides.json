@@ -31,7 +31,7 @@
       "title": "Aligned Information Bottleneck for Multimodal Social Sentiment Analysis",
       "section": "publication",
       "year": 2026,
-      "sort_date": "2026-05-19",
+      "sort_date": "2026",
       "markdown": "- R. Zou, J. Zhang, A. Ren, W. Wang, Z. Gao, J. Wu, ***Kai He***. Aligned Information Bottleneck for Multimodal Social Sentiment Analysis [J]. IEEE Transactions on Computational Social Systems, 2026.",
       "doi": "10.1109/tcss.2026.3686434"
     },
@@ -192,7 +192,7 @@
       "title": "Extracting kinship from obituary to enhance electronic health records for genetic research",
       "section": "publication",
       "year": 2019,
-      "sort_date": "2019-08",
+      "sort_date": "2019",
       "markdown": "- ***Kai He***, J. Wu, X. Ma, et al. Extracting Kinship from Obituaries to Enhance Electronic Health Records for Genetic Research [C]. Proceedings of the Fourth Social Media Mining for Health Applications (SMM4H) Workshop & Shared Task, 2019: 1–10.",
       "doi": "10.18653/v1/w19-3201"
     },
@@ -311,7 +311,7 @@
       "markdown": "- Jialun Wu, ***Kai He***, Zeyu Gao, Xuequn Shang, Mengling Feng. Towards Smarter Clinical Predictions: Foundation Models for Integrating Multi-Source Domain Knowledge in EHRs [J]. IEEE Journal of Biomedical and Health Informatics (JBHI), 2025, Online.",
       "section": "publication",
       "year": 2025,
-      "sort_date": "2025-09-15",
+      "sort_date": "2025",
       "doi": "10.1109/jbhi.2025.3609064"
     },
     {
@@ -420,7 +420,7 @@
       "markdown": "- R. Mao, ***Kai He***, C. Ong, et al. MetaPro 2.0: Computational metaphor processing on the effectiveness of anomalous language modeling [C]. Findings of the Association for Computational Linguistics (ACL), 2024: 9891–9908.",
       "section": "publication",
       "year": 2024,
-      "sort_date": "2024-08",
+      "sort_date": "2024",
       "doi": "10.18653/v1/2024.findings-acl.590"
     },
     {
@@ -444,7 +444,7 @@
       "markdown": "- X. Zhang, R. Mao, ***Kai He***, et al. Neuro-symbolic sentiment analysis with dynamic word sense disambiguation [C]. Findings of the Association for Computational Linguistics: EMNLP, 2023: 8772–8783.",
       "section": "publication",
       "year": 2023,
-      "sort_date": "2023-12",
+      "sort_date": "2023",
       "doi": "10.18653/v1/2023.findings-emnlp.587"
     },
     {
