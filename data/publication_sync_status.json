@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-05T02:54:45.640021+00:00",
+  "checked_at": "2026-10-12T03:10:09.234416+00:00",
   "sources": {
     "Google Scholar": {
       "ok": false,
@@ -7,7 +7,7 @@
     },
     "ORCID": {
       "ok": true,
-      "count": 60
+      "count": 61
     }
   },
   "skipped": [
@@ -77,6 +77,12 @@
       "reason": "Missing venue or preprint repository"
     }
   ],
-  "changes": [],
+  "changes": [
+    {
+      "title": "CARES: Clinical Evidence-linked, Role-aware, and Safety-conscious Medication Recommendation",
+      "doi": "10.1145/3833142.3833203",
+      "action": "added"
+    }
+  ],
   "concurrent_edits_skipped": []
 }

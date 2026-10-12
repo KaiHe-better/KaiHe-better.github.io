@@ -32,11 +32,11 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 # 🔥 News
 
 <!-- AUTO_NEWS_START -->
+- *2026.10*: &nbsp;🎉🎉 Our paper “CARES: Clinical Evidence-linked, Role-aware, and Safety-conscious Medication Recommendation” is published in Proceedings of the ACM Turing Award Celebration Conference - China 2026.
 - *2026.10*: &nbsp;🎉🎉 Our paper “Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learning across Arbitrary Atlases” is published in IEEE Transactions on Pattern Analysis and Machine Intelligence.
 - *2026.09*: &nbsp;🎉🎉 Our paper “Towards Unified Neurosymbolic Reasoning on Knowledge Graphs” is published in IEEE Transactions on Pattern Analysis and Machine Intelligence.
 - *2026.08*: &nbsp;🎉🎉 Our paper “Affective Language Processing for Mental Healthcare: A Survey of LLM-Based Approaches across the Care Continuum” is published in IEEE Transactions on Affective Computing.
 - *2026.08*: &nbsp;🎉🎉 Our paper “ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering” is published in Nature Communications.
-- *2026.08*: &nbsp;🎉🎉 Our paper “Learnable frozen feature augmentation for few-shot biomarker prediction from pathology whole-slide images” is published in Bioinformatics.
 <!-- AUTO_NEWS_END -->
 
 
@@ -73,6 +73,8 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 
 <!-- AUTO_PUBLICATIONS_START -->
 ## 2026
+
+- ***Kai He***, J. Liu, Z. Gao, X. Mei, J. Wu. CARES: Clinical Evidence-linked, Role-aware, and Safety-conscious Medication Recommendation [C]. Proceedings of the ACM Turing Award Celebration Conference - China 2026, 2026: 259-264.
 
 - Q. Lin, F. Xu, H. Lu, ***Kai He***, R. Mao, J. Liu, E. Cambria, M. Feng. Towards Unified Neurosymbolic Reasoning on Knowledge Graphs [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026: 1-16.
 

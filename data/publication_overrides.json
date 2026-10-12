@@ -534,6 +534,16 @@
       "year": 2019,
       "sort_date": "2019-02-21",
       "doi": "10.2196/12238"
+    },
+    {
+      "title": "CARES: Clinical Evidence-linked, Role-aware, and Safety-conscious Medication Recommendation",
+      "doi": "10.1145/3833142.3833203",
+      "section": "publication",
+      "year": 2026,
+      "sort_date": "2026-10-08",
+      "markdown": "- ***Kai He***, J. Liu, Z. Gao, X. Mei, J. Wu. CARES: Clinical Evidence-linked, Role-aware, and Safety-conscious Medication Recommendation [C]. Proceedings of the ACM Turing Award Celebration Conference - China 2026, 2026: 259-264.",
+      "metadata_source": "Crossref/arXiv",
+      "news": "- *2026.10*: &nbsp;🎉🎉 Our paper “CARES: Clinical Evidence-linked, Role-aware, and Safety-conscious Medication Recommendation” is published in Proceedings of the ACM Turing Award Celebration Conference - China 2026."
     }
   ]
 }
