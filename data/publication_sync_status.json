@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-19T02:18:11.338739+00:00",
+  "checked_at": "2026-10-26T02:12:40.396411+00:00",
   "sources": {
     "Google Scholar": {
       "ok": false,
-      "error": "Scholar did not return its publication table (possibly blocked)"
+      "error": "HTTP Error 403: Forbidden"
     },
     "ORCID": {
       "ok": true,
