@@ -19,9 +19,8 @@ redirect_from:
 
 Dr. He Kai earned his Ph.D. from the School of Computer Science and Technology, Xi’an Jiaotong University, under the supervision of Prof. Li Chen (recipient of China’s Young Thousand Talents Award), and completed a research visit at Nanyang Technological University with Prof. Erik Cambria (IEEE Fellow). He is currently a postdoctoral researcher at the National University of Singapore, School of Public Health, specializing in medical artificial intelligence and natural language processing (NLP).
 
-Dr. He has established himself as an independent researcher with a strong foundation in NLP and large language models, complemented by impactful applications in healthcare. He has published over 45 peer-reviewed papers, including articles in top-tier venues such as Nature Cancer, IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Affective Computing, and Information Fusion. His work includes two ESI Highly Cited Papers, a Best Paper Award in IEEE Transactions on Affective Computing. His leading projects, notably the Intelligent Telephone Triage in Pre-Hospital Emergency Care with the Singapore Civil Defence Force, have translated cutting-edge AI into practice, reducing triage error rates. The project received the Provost’s Innovation Chair Professor Award, was commended by Singapore’s Health Minister, showcased at national healthcare innovation events, and he was received by Deputy Prime Minister Mr. Gan Kim Yong as the project representative.
+Dr. He has established himself as an independent researcher with a strong foundation in NLP and large language models, complemented by impactful applications in healthcare. He has published over 80 peer-reviewed papers, including articles in top-tier venues such as Nature Cancer, Nature communication， IEEE Transactions on Affective Computing, and Information Fusion. His work includes two ESI Highly Cited Papers, a Best Paper Award in IEEE Transactions on Affective Computing. His leading projects, notably the Intelligent Telephone Triage in Pre-Hospital Emergency Care with the Singapore Civil Defence Force, have translated cutting-edge AI into practice, reducing triage error rates. The project received the Provost’s Innovation Chair Professor Award, was commended by Singapore’s Health Minister, showcased at national healthcare innovation events, and he was received by Deputy Prime Minister Mr. Gan Kim Yong as the project representative.
 
-Beyond publications, Dr. He demonstrates leadership in both research and service. He serves as an Associate Editor for IEEE Transactions on Affective Computing, co-chairs the NLP-SIG workshop and Precision Medicine workshop of BIBM, Are-Chair of LREC 2026, and reviews for leading journals such as Information Fusion, TNNLS, and TAC. He also contributes to program committees of ACL, EMNLP, IJCAI, SIGIR, and WWW. As a mentor, he has supervised PhD students to co-author multiple publications.
 
 For his full (and timely) publication list, please refer to my Google scholar<a href='https://scholar.google.com/citations?user=4nWk-HYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
                    
@@ -289,14 +288,15 @@ For his full (and timely) publication list, please refer to my Google scholar<a 
 - Journal 
    - Associate Editor :
        IEEE Transactions on Affective Computing （IF:9.6）；
-       Health Data Science （IF:4.5, pending）
+       Health Data Science （IF:4.7）
    - Guest Leading Editor:
        Special Issue on Can AI Care? Affective LLMs for the Future of Mental Health of TAC journal.
    - Reviewer (Selected): 
        Nature Communcation, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Affective Computing, Information Fusion, Expert System with Applicatiopn, Neurocomputing, Bioinformastics, Information Processing and Management, Knowledge-Based Systems, Cognitive Computation.
 
 - Conference
-   - Are-Chair of LREC 2026 (Psycholinguistics, Cognitive Linguistics and Linguistic Theories)
+   - Are-Chair of ACL ARR 2026 
+   - Are-Chair of LREC 2026 
    - Co‑chair of The 7th International Workshop on Artificial Intelligence for Precision Medicine, 2025 (https://ai-precmed.github.io). 
    - Co‑chair of NLP‑SIG workshop, 2023‑now
    - Program Committee Member: 
