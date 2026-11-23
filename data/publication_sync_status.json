@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T03:34:29.914434+00:00",
+  "checked_at": "2026-11-23T04:39:47.189228+00:00",
   "sources": {
     "Google Scholar": {
       "ok": false,
@@ -15,6 +15,11 @@
       "title": "BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification",
       "source": "ORCID",
       "reason": "No exact-title verified record; left for later verification"
+    },
+    {
+      "title": "From Patches to Wsis: A Systematic Review of Deep Multiple Instance Learning in Computational Pathology",
+      "source": "ORCID",
+      "reason": "The read operation timed out"
     },
     {
       "title": "Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models",
